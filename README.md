@@ -16506,6 +16506,41176 @@ table.MsoTableLightShading
 
 	mso-layout-grid-align:none;
 
-	
-Professional Services Agreement.html
-Displaying Professional Services Agreement.html.
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableLightShadingFirstRow
+
+	{mso-style-name:"Light Shading";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingLastRow
+
+	{mso-style-name:"Light Shading";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingFirstCol
+
+	{mso-style-name:"Light Shading";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingLastCol
+
+	{mso-style-name:"Light Shading";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingOddColumn
+
+	{mso-style-name:"Light Shading";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingOddRow
+
+	{mso-style-name:"Light Shading";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightList
+
+	{mso-style-name:"Light List";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid black 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightListFirstRow
+
+	{mso-style-name:"Light List";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListLastRow
+
+	{mso-style-name:"Light List";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListFirstCol
+
+	{mso-style-name:"Light List";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListLastCol
+
+	{mso-style-name:"Light List";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListOddColumn
+
+	{mso-style-name:"Light List";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListOddRow
+
+	{mso-style-name:"Light List";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGrid
+
+	{mso-style-name:"Light Grid";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid black 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightGridFirstRow
+
+	{mso-style-name:"Light Grid";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:2.25pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridLastRow
+
+	{mso-style-name:"Light Grid";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridFirstCol
+
+	{mso-style-name:"Light Grid";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridLastCol
+
+	{mso-style-name:"Light Grid";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridOddColumn
+
+	{mso-style-name:"Light Grid";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridOddRow
+
+	{mso-style-name:"Light Grid";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridEvenRow
+
+	{mso-style-name:"Light Grid";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1
+
+	{mso-style-name:"Medium Shading 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #404040 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading1FirstRow
+
+	{mso-style-name:"Medium Shading 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:1.0pt solid #404040;
+
+	mso-tstyle-border-left:1.0pt solid #404040;
+
+	mso-tstyle-border-bottom:1.0pt solid #404040;
+
+	mso-tstyle-border-right:0in none #404040;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1LastRow
+
+	{mso-style-name:"Medium Shading 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #404040;
+
+	mso-tstyle-border-left:1.0pt solid #404040;
+
+	mso-tstyle-border-bottom:1.0pt solid #404040;
+
+	mso-tstyle-border-right:0in none #404040;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1FirstCol
+
+	{mso-style-name:"Medium Shading 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1LastCol
+
+	{mso-style-name:"Medium Shading 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1OddColumn
+
+	{mso-style-name:"Medium Shading 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1OddRow
+
+	{mso-style-name:"Medium Shading 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1EvenRow
+
+	{mso-style-name:"Medium Shading 1";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 2.25pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 2.25pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading2FirstRow
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2LastRow
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;}
+
+table.MsoTableMediumShading2FirstCol
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2LastCol
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2OddColumn
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2OddRow
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2NECell
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2NWCell
+
+	{mso-style-name:"Medium Shading 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableMediumList1
+
+	{mso-style-name:"Medium List 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid black 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid black 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableMediumList1FirstRow
+
+	{mso-style-name:"Medium List 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1LastRow
+
+	{mso-style-name:"Medium List 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1FirstCol
+
+	{mso-style-name:"Medium List 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1LastCol
+
+	{mso-style-name:"Medium List 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-bottom:1.0pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1OddColumn
+
+	{mso-style-name:"Medium List 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1OddRow
+
+	{mso-style-name:"Medium List 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2
+
+	{mso-style-name:"Medium List 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid black 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumList2FirstRow
+
+	{mso-style-name:"Medium List 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid black;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:12.0pt;
+
+	mso-ansi-font-size:12.0pt;
+
+	mso-bidi-font-size:12.0pt;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2LastRow
+
+	{mso-style-name:"Medium List 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.0pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2FirstCol
+
+	{mso-style-name:"Medium List 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2LastCol
+
+	{mso-style-name:"Medium List 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2OddColumn
+
+	{mso-style-name:"Medium List 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2OddRow
+
+	{mso-style-name:"Medium List 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2NWCell
+
+	{mso-style-name:"Medium List 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2SWCell
+
+	{mso-style-name:"Medium List 2";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1
+
+	{mso-style-name:"Medium Grid 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #404040 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:silver;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid1FirstRow
+
+	{mso-style-name:"Medium Grid 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1LastRow
+
+	{mso-style-name:"Medium Grid 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid #404040;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1FirstCol
+
+	{mso-style-name:"Medium Grid 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1LastCol
+
+	{mso-style-name:"Medium Grid 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1OddColumn
+
+	{mso-style-name:"Medium Grid 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1OddRow
+
+	{mso-style-name:"Medium Grid 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2
+
+	{mso-style-name:"Medium Grid 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid black 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:silver;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumGrid2FirstRow
+
+	{mso-style-name:"Medium Grid 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6E6E6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2LastRow
+
+	{mso-style-name:"Medium Grid 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2FirstCol
+
+	{mso-style-name:"Medium Grid 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2LastCol
+
+	{mso-style-name:"Medium Grid 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableMediumGrid2OddColumn
+
+	{mso-style-name:"Medium Grid 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2OddRow
+
+	{mso-style-name:"Medium Grid 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2NWCell
+
+	{mso-style-name:"Medium Grid 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3
+
+	{mso-style-name:"Medium Grid 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:silver;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid3FirstRow
+
+	{mso-style-name:"Medium Grid 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:3.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3LastRow
+
+	{mso-style-name:"Medium Grid 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:3.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3FirstCol
+
+	{mso-style-name:"Medium Grid 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3LastCol
+
+	{mso-style-name:"Medium Grid 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:3.0pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3OddColumn
+
+	{mso-style-name:"Medium Grid 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3OddRow
+
+	{mso-style-name:"Medium Grid 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkList
+
+	{mso-style-name:"Dark List";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:black;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTableDarkListFirstRow
+
+	{mso-style-name:"Dark List";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableDarkListLastRow
+
+	{mso-style-name:"Dark List";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:2.25pt solid white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListFirstCol
+
+	{mso-style-name:"Dark List";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListLastCol
+
+	{mso-style-name:"Dark List";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:2.25pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListOddColumn
+
+	{mso-style-name:"Dark List";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListOddRow
+
+	{mso-style-name:"Dark List";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShading
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid black 1.0pt;
+
+	border-top:solid #C0504D 3.0pt;
+
+	mso-border-alt:solid black .5pt;
+
+	mso-border-top-alt:solid #C0504D 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#E6E6E6;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulShadingFirstRow
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #C0504D;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingLastRow
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:.75pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingFirstCol
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingLastCol
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingOddColumn
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#999999;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingOddRow
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingNECell
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulShadingNWCell
+
+	{mso-style-name:"Colorful Shading";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulList
+
+	{mso-style-name:"Colorful List";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#E6E6E6;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulListFirstRow
+
+	{mso-style-name:"Colorful List";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9E3A38;
+
+	mso-tstyle-border-bottom:1.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListLastRow
+
+	{mso-style-name:"Colorful List";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:#9E3A38;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListFirstCol
+
+	{mso-style-name:"Colorful List";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListLastCol
+
+	{mso-style-name:"Colorful List";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListOddColumn
+
+	{mso-style-name:"Colorful List";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:silver;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulListOddRow
+
+	{mso-style-name:"Colorful List";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGrid
+
+	{mso-style-name:"Colorful Grid";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulGridFirstRow
+
+	{mso-style-name:"Colorful Grid";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#999999;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridLastRow
+
+	{mso-style-name:"Colorful Grid";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#999999;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridFirstCol
+
+	{mso-style-name:"Colorful Grid";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridLastCol
+
+	{mso-style-name:"Colorful Grid";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridOddColumn
+
+	{mso-style-name:"Colorful Grid";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridOddRow
+
+	{mso-style-name:"Colorful Grid";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:gray;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent1
+
+	{mso-style-name:"Light Shading - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #4F81BD 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #4F81BD 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#365F91;}
+
+table.MsoTableLightShadingAccent1FirstRow
+
+	{mso-style-name:"Light Shading - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent1LastRow
+
+	{mso-style-name:"Light Shading - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent1FirstCol
+
+	{mso-style-name:"Light Shading - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent1LastCol
+
+	{mso-style-name:"Light Shading - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent1OddColumn
+
+	{mso-style-name:"Light Shading - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent1OddRow
+
+	{mso-style-name:"Light Shading - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent1
+
+	{mso-style-name:"Light List - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4F81BD 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightListAccent1FirstRow
+
+	{mso-style-name:"Light List - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent1LastRow
+
+	{mso-style-name:"Light List - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent1FirstCol
+
+	{mso-style-name:"Light List - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent1LastCol
+
+	{mso-style-name:"Light List - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent1OddColumn
+
+	{mso-style-name:"Light List - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent1OddRow
+
+	{mso-style-name:"Light List - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent1
+
+	{mso-style-name:"Light Grid - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4F81BD 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightGridAccent1FirstRow
+
+	{mso-style-name:"Light Grid - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:2.25pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent1LastRow
+
+	{mso-style-name:"Light Grid - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent1FirstCol
+
+	{mso-style-name:"Light Grid - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent1LastCol
+
+	{mso-style-name:"Light Grid - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent1OddColumn
+
+	{mso-style-name:"Light Grid - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent1OddRow
+
+	{mso-style-name:"Light Grid - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent1EvenRow
+
+	{mso-style-name:"Light Grid - Accent 1";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent1
+
+	{mso-style-name:"Medium Shading 1 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading1Accent1FirstRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:1.0pt solid windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent1LastRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent1FirstCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent1LastCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent1OddColumn
+
+	{mso-style-name:"Medium Shading 1 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent1OddRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent1EvenRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 1";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent1
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 2.25pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 2.25pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading2Accent1FirstRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent1LastRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;}
+
+table.MsoTableMediumShading2Accent1FirstCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent1LastCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent1OddColumn
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent1OddRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent1NECell
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent1NWCell
+
+	{mso-style-name:"Medium Shading 2 - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableMediumList1Accent1
+
+	{mso-style-name:"Medium List 1 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #4F81BD 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #4F81BD 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableMediumList1Accent1FirstRow
+
+	{mso-style-name:"Medium List 1 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent1LastRow
+
+	{mso-style-name:"Medium List 1 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent1FirstCol
+
+	{mso-style-name:"Medium List 1 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent1LastCol
+
+	{mso-style-name:"Medium List 1 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:1.0pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent1OddColumn
+
+	{mso-style-name:"Medium List 1 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent1OddRow
+
+	{mso-style-name:"Medium List 1 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent1
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4F81BD 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumList2Accent1FirstRow
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #4F81BD;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:12.0pt;
+
+	mso-ansi-font-size:12.0pt;
+
+	mso-bidi-font-size:12.0pt;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent1LastRow
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent1FirstCol
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent1LastCol
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:1.0pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent1OddColumn
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent1OddRow
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent1NWCell
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent1SWCell
+
+	{mso-style-name:"Medium List 2 - Accent 1";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent1
+
+	{mso-style-name:"Medium Grid 1 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid1Accent1FirstRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent1LastRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent1FirstCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent1LastCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent1OddColumn
+
+	{mso-style-name:"Medium Grid 1 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent1OddRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent1
+
+	{mso-style-name:"Medium Grid 2 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4F81BD 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent1FirstRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EDF2F8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent1LastRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent1FirstCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent1LastCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent1OddColumn
+
+	{mso-style-name:"Medium Grid 2 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent1OddRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent1NWCell
+
+	{mso-style-name:"Medium Grid 2 - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent1
+
+	{mso-style-name:"Medium Grid 3 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid3Accent1FirstRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:3.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent1LastRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:3.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent1FirstCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent1LastCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:3.0pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent1OddColumn
+
+	{mso-style-name:"Medium Grid 3 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent1OddRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent1
+
+	{mso-style-name:"Dark List - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTableDarkListAccent1FirstRow
+
+	{mso-style-name:"Dark List - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableDarkListAccent1LastRow
+
+	{mso-style-name:"Dark List - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#243F60;
+
+	mso-tstyle-border-top:2.25pt solid white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent1FirstCol
+
+	{mso-style-name:"Dark List - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#365F91;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent1LastCol
+
+	{mso-style-name:"Dark List - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#365F91;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:2.25pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent1OddColumn
+
+	{mso-style-name:"Dark List - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#365F91;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent1OddRow
+
+	{mso-style-name:"Dark List - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#365F91;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent1
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4F81BD 1.0pt;
+
+	border-top:solid #C0504D 3.0pt;
+
+	mso-border-alt:solid #4F81BD .5pt;
+
+	mso-border-top-alt:solid #C0504D 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EDF2F8;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent1FirstRow
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #C0504D;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent1LastRow
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#2C4C74;
+
+	mso-tstyle-border-top:.75pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent1FirstCol
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#2C4C74;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #2C4C74;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent1LastCol
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#2C4C74;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent1OddColumn
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B8CCE4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent1OddRow
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent1NECell
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent1NWCell
+
+	{mso-style-name:"Colorful Shading - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulListAccent1
+
+	{mso-style-name:"Colorful List - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EDF2F8;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulListAccent1FirstRow
+
+	{mso-style-name:"Colorful List - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9E3A38;
+
+	mso-tstyle-border-bottom:1.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent1LastRow
+
+	{mso-style-name:"Colorful List - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:#9E3A38;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent1FirstCol
+
+	{mso-style-name:"Colorful List - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent1LastCol
+
+	{mso-style-name:"Colorful List - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent1OddColumn
+
+	{mso-style-name:"Colorful List - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D3DFEE;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulListAccent1OddRow
+
+	{mso-style-name:"Colorful List - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent1
+
+	{mso-style-name:"Colorful Grid - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulGridAccent1FirstRow
+
+	{mso-style-name:"Colorful Grid - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B8CCE4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent1LastRow
+
+	{mso-style-name:"Colorful Grid - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B8CCE4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent1FirstCol
+
+	{mso-style-name:"Colorful Grid - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#365F91;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent1LastCol
+
+	{mso-style-name:"Colorful Grid - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#365F91;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent1OddColumn
+
+	{mso-style-name:"Colorful Grid - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent1OddRow
+
+	{mso-style-name:"Colorful Grid - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A7BFDE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent2
+
+	{mso-style-name:"Light Shading - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #C0504D 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #C0504D 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#943634;}
+
+table.MsoTableLightShadingAccent2FirstRow
+
+	{mso-style-name:"Light Shading - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent2LastRow
+
+	{mso-style-name:"Light Shading - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent2FirstCol
+
+	{mso-style-name:"Light Shading - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent2LastCol
+
+	{mso-style-name:"Light Shading - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent2OddColumn
+
+	{mso-style-name:"Light Shading - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent2OddRow
+
+	{mso-style-name:"Light Shading - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent2
+
+	{mso-style-name:"Light List - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #C0504D 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightListAccent2FirstRow
+
+	{mso-style-name:"Light List - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent2LastRow
+
+	{mso-style-name:"Light List - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent2FirstCol
+
+	{mso-style-name:"Light List - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent2LastCol
+
+	{mso-style-name:"Light List - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent2OddColumn
+
+	{mso-style-name:"Light List - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent2OddRow
+
+	{mso-style-name:"Light List - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent2
+
+	{mso-style-name:"Light Grid - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #C0504D 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightGridAccent2FirstRow
+
+	{mso-style-name:"Light Grid - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:2.25pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent2LastRow
+
+	{mso-style-name:"Light Grid - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent2FirstCol
+
+	{mso-style-name:"Light Grid - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent2LastCol
+
+	{mso-style-name:"Light Grid - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent2OddColumn
+
+	{mso-style-name:"Light Grid - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent2OddRow
+
+	{mso-style-name:"Light Grid - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent2EvenRow
+
+	{mso-style-name:"Light Grid - Accent 2";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-tstyle-border-right:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent2
+
+	{mso-style-name:"Medium Shading 1 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading1Accent2FirstRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:1.0pt solid windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent2LastRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent2FirstCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent2LastCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent2OddColumn
+
+	{mso-style-name:"Medium Shading 1 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent2OddRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent2EvenRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 2";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent2
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 2.25pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 2.25pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading2Accent2FirstRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent2LastRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;}
+
+table.MsoTableMediumShading2Accent2FirstCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent2LastCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent2OddColumn
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent2OddRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent2NECell
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent2NWCell
+
+	{mso-style-name:"Medium Shading 2 - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableMediumList1Accent2
+
+	{mso-style-name:"Medium List 1 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #C0504D 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #C0504D 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableMediumList1Accent2FirstRow
+
+	{mso-style-name:"Medium List 1 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent2LastRow
+
+	{mso-style-name:"Medium List 1 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent2FirstCol
+
+	{mso-style-name:"Medium List 1 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent2LastCol
+
+	{mso-style-name:"Medium List 1 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:1.0pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent2OddColumn
+
+	{mso-style-name:"Medium List 1 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent2OddRow
+
+	{mso-style-name:"Medium List 1 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent2
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #C0504D 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumList2Accent2FirstRow
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #C0504D;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:12.0pt;
+
+	mso-ansi-font-size:12.0pt;
+
+	mso-bidi-font-size:12.0pt;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent2LastRow
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.0pt solid #C0504D;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent2FirstCol
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent2LastCol
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:1.0pt solid #C0504D;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent2OddColumn
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent2OddRow
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent2NWCell
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent2SWCell
+
+	{mso-style-name:"Medium List 2 - Accent 2";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent2
+
+	{mso-style-name:"Medium Grid 1 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid1Accent2FirstRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent2LastRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent2FirstCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent2LastCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent2OddColumn
+
+	{mso-style-name:"Medium Grid 1 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent2OddRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent2
+
+	{mso-style-name:"Medium Grid 2 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #C0504D 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent2FirstRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F8EDED;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent2LastRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent2FirstCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent2LastCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent2OddColumn
+
+	{mso-style-name:"Medium Grid 2 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent2OddRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent2NWCell
+
+	{mso-style-name:"Medium Grid 2 - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent2
+
+	{mso-style-name:"Medium Grid 3 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid3Accent2FirstRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:3.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent2LastRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:3.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent2FirstCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent2LastCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:3.0pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent2OddColumn
+
+	{mso-style-name:"Medium Grid 3 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent2OddRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent2
+
+	{mso-style-name:"Dark List - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTableDarkListAccent2FirstRow
+
+	{mso-style-name:"Dark List - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableDarkListAccent2LastRow
+
+	{mso-style-name:"Dark List - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#622423;
+
+	mso-tstyle-border-top:2.25pt solid white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent2FirstCol
+
+	{mso-style-name:"Dark List - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#943634;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent2LastCol
+
+	{mso-style-name:"Dark List - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#943634;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:2.25pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent2OddColumn
+
+	{mso-style-name:"Dark List - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#943634;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent2OddRow
+
+	{mso-style-name:"Dark List - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#943634;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent2
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #C0504D 1.0pt;
+
+	border-top:solid #C0504D 3.0pt;
+
+	mso-border-alt:solid #C0504D .5pt;
+
+	mso-border-top-alt:solid #C0504D 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F8EDED;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent2FirstRow
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #C0504D;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent2LastRow
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#772C2A;
+
+	mso-tstyle-border-top:.75pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent2FirstCol
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#772C2A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #772C2A;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent2LastCol
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#772C2A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent2OddColumn
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5B8B7;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent2OddRow
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent2NECell
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent2NWCell
+
+	{mso-style-name:"Colorful Shading - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulListAccent2
+
+	{mso-style-name:"Colorful List - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F8EDED;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulListAccent2FirstRow
+
+	{mso-style-name:"Colorful List - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9E3A38;
+
+	mso-tstyle-border-bottom:1.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent2LastRow
+
+	{mso-style-name:"Colorful List - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:#9E3A38;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent2FirstCol
+
+	{mso-style-name:"Colorful List - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent2LastCol
+
+	{mso-style-name:"Colorful List - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent2OddColumn
+
+	{mso-style-name:"Colorful List - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EFD3D2;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulListAccent2OddRow
+
+	{mso-style-name:"Colorful List - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent2
+
+	{mso-style-name:"Colorful Grid - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulGridAccent2FirstRow
+
+	{mso-style-name:"Colorful Grid - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5B8B7;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent2LastRow
+
+	{mso-style-name:"Colorful Grid - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5B8B7;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent2FirstCol
+
+	{mso-style-name:"Colorful Grid - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#943634;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent2LastCol
+
+	{mso-style-name:"Colorful Grid - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#943634;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent2OddColumn
+
+	{mso-style-name:"Colorful Grid - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent2OddRow
+
+	{mso-style-name:"Colorful Grid - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFA7A6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent3
+
+	{mso-style-name:"Light Shading - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #9BBB59 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #9BBB59 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#76923C;}
+
+table.MsoTableLightShadingAccent3FirstRow
+
+	{mso-style-name:"Light Shading - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent3LastRow
+
+	{mso-style-name:"Light Shading - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent3FirstCol
+
+	{mso-style-name:"Light Shading - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent3LastCol
+
+	{mso-style-name:"Light Shading - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent3OddColumn
+
+	{mso-style-name:"Light Shading - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent3OddRow
+
+	{mso-style-name:"Light Shading - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent3
+
+	{mso-style-name:"Light List - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #9BBB59 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightListAccent3FirstRow
+
+	{mso-style-name:"Light List - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent3LastRow
+
+	{mso-style-name:"Light List - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent3FirstCol
+
+	{mso-style-name:"Light List - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent3LastCol
+
+	{mso-style-name:"Light List - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent3OddColumn
+
+	{mso-style-name:"Light List - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent3OddRow
+
+	{mso-style-name:"Light List - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent3
+
+	{mso-style-name:"Light Grid - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #9BBB59 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightGridAccent3FirstRow
+
+	{mso-style-name:"Light Grid - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:2.25pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent3LastRow
+
+	{mso-style-name:"Light Grid - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent3FirstCol
+
+	{mso-style-name:"Light Grid - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent3LastCol
+
+	{mso-style-name:"Light Grid - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent3OddColumn
+
+	{mso-style-name:"Light Grid - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent3OddRow
+
+	{mso-style-name:"Light Grid - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent3EvenRow
+
+	{mso-style-name:"Light Grid - Accent 3";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent3
+
+	{mso-style-name:"Medium Shading 1 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading1Accent3FirstRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:1.0pt solid windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent3LastRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent3FirstCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent3LastCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent3OddColumn
+
+	{mso-style-name:"Medium Shading 1 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent3OddRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent3EvenRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 3";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent3
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 2.25pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 2.25pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading2Accent3FirstRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent3LastRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;}
+
+table.MsoTableMediumShading2Accent3FirstCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent3LastCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent3OddColumn
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent3OddRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent3NECell
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent3NWCell
+
+	{mso-style-name:"Medium Shading 2 - Accent 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableMediumList1Accent3
+
+	{mso-style-name:"Medium List 1 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #9BBB59 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #9BBB59 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableMediumList1Accent3FirstRow
+
+	{mso-style-name:"Medium List 1 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent3LastRow
+
+	{mso-style-name:"Medium List 1 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent3FirstCol
+
+	{mso-style-name:"Medium List 1 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent3LastCol
+
+	{mso-style-name:"Medium List 1 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:1.0pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent3OddColumn
+
+	{mso-style-name:"Medium List 1 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent3OddRow
+
+	{mso-style-name:"Medium List 1 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent3
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #9BBB59 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumList2Accent3FirstRow
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:12.0pt;
+
+	mso-ansi-font-size:12.0pt;
+
+	mso-bidi-font-size:12.0pt;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent3LastRow
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent3FirstCol
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent3LastCol
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:1.0pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent3OddColumn
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent3OddRow
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent3NWCell
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent3SWCell
+
+	{mso-style-name:"Medium List 2 - Accent 3";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent3
+
+	{mso-style-name:"Medium Grid 1 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid1Accent3FirstRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent3LastRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent3FirstCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent3LastCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent3OddColumn
+
+	{mso-style-name:"Medium Grid 1 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent3OddRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent3
+
+	{mso-style-name:"Medium Grid 2 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #9BBB59 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent3FirstRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F5F8EE;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent3LastRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent3FirstCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent3LastCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent3OddColumn
+
+	{mso-style-name:"Medium Grid 2 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent3OddRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent3NWCell
+
+	{mso-style-name:"Medium Grid 2 - Accent 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent3
+
+	{mso-style-name:"Medium Grid 3 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid3Accent3FirstRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:3.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent3LastRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:3.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent3FirstCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent3LastCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:3.0pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent3OddColumn
+
+	{mso-style-name:"Medium Grid 3 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent3OddRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent3
+
+	{mso-style-name:"Dark List - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTableDarkListAccent3FirstRow
+
+	{mso-style-name:"Dark List - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableDarkListAccent3LastRow
+
+	{mso-style-name:"Dark List - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4E6128;
+
+	mso-tstyle-border-top:2.25pt solid white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent3FirstCol
+
+	{mso-style-name:"Dark List - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#76923C;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent3LastCol
+
+	{mso-style-name:"Dark List - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#76923C;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:2.25pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent3OddColumn
+
+	{mso-style-name:"Dark List - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#76923C;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent3OddRow
+
+	{mso-style-name:"Dark List - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#76923C;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent3
+
+	{mso-style-name:"Colorful Shading - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #9BBB59 1.0pt;
+
+	border-top:solid #8064A2 3.0pt;
+
+	mso-border-alt:solid #9BBB59 .5pt;
+
+	mso-border-top-alt:solid #8064A2 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F5F8EE;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent3FirstRow
+
+	{mso-style-name:"Colorful Shading - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #8064A2;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent3LastRow
+
+	{mso-style-name:"Colorful Shading - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5E7530;
+
+	mso-tstyle-border-top:.75pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent3FirstCol
+
+	{mso-style-name:"Colorful Shading - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5E7530;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #5E7530;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent3LastCol
+
+	{mso-style-name:"Colorful Shading - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5E7530;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent3OddColumn
+
+	{mso-style-name:"Colorful Shading - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D6E3BC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent3OddRow
+
+	{mso-style-name:"Colorful Shading - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulListAccent3
+
+	{mso-style-name:"Colorful List - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F5F8EE;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulListAccent3FirstRow
+
+	{mso-style-name:"Colorful List - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#664E82;
+
+	mso-tstyle-border-bottom:1.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent3LastRow
+
+	{mso-style-name:"Colorful List - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:#664E82;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent3FirstCol
+
+	{mso-style-name:"Colorful List - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent3LastCol
+
+	{mso-style-name:"Colorful List - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent3OddColumn
+
+	{mso-style-name:"Colorful List - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E6EED5;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulListAccent3OddRow
+
+	{mso-style-name:"Colorful List - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent3
+
+	{mso-style-name:"Colorful Grid - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulGridAccent3FirstRow
+
+	{mso-style-name:"Colorful Grid - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D6E3BC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent3LastRow
+
+	{mso-style-name:"Colorful Grid - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D6E3BC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent3FirstCol
+
+	{mso-style-name:"Colorful Grid - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#76923C;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent3LastCol
+
+	{mso-style-name:"Colorful Grid - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#76923C;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent3OddColumn
+
+	{mso-style-name:"Colorful Grid - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent3OddRow
+
+	{mso-style-name:"Colorful Grid - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CDDDAC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent4
+
+	{mso-style-name:"Light Shading - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #8064A2 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #8064A2 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#5F497A;}
+
+table.MsoTableLightShadingAccent4FirstRow
+
+	{mso-style-name:"Light Shading - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent4LastRow
+
+	{mso-style-name:"Light Shading - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent4FirstCol
+
+	{mso-style-name:"Light Shading - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent4LastCol
+
+	{mso-style-name:"Light Shading - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent4OddColumn
+
+	{mso-style-name:"Light Shading - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent4OddRow
+
+	{mso-style-name:"Light Shading - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent4
+
+	{mso-style-name:"Light List - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #8064A2 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightListAccent4FirstRow
+
+	{mso-style-name:"Light List - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent4LastRow
+
+	{mso-style-name:"Light List - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent4FirstCol
+
+	{mso-style-name:"Light List - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent4LastCol
+
+	{mso-style-name:"Light List - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent4OddColumn
+
+	{mso-style-name:"Light List - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent4OddRow
+
+	{mso-style-name:"Light List - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent4
+
+	{mso-style-name:"Light Grid - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #8064A2 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightGridAccent4FirstRow
+
+	{mso-style-name:"Light Grid - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:2.25pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent4LastRow
+
+	{mso-style-name:"Light Grid - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent4FirstCol
+
+	{mso-style-name:"Light Grid - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent4LastCol
+
+	{mso-style-name:"Light Grid - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent4OddColumn
+
+	{mso-style-name:"Light Grid - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent4OddRow
+
+	{mso-style-name:"Light Grid - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent4EvenRow
+
+	{mso-style-name:"Light Grid - Accent 4";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-tstyle-border-right:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent4
+
+	{mso-style-name:"Medium Shading 1 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading1Accent4FirstRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:1.0pt solid windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent4LastRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent4FirstCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent4LastCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent4OddColumn
+
+	{mso-style-name:"Medium Shading 1 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent4OddRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent4EvenRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 4";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent4
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 2.25pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 2.25pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading2Accent4FirstRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent4LastRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;}
+
+table.MsoTableMediumShading2Accent4FirstCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent4LastCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent4OddColumn
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent4OddRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent4NECell
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent4NWCell
+
+	{mso-style-name:"Medium Shading 2 - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableMediumList1Accent4
+
+	{mso-style-name:"Medium List 1 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #8064A2 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #8064A2 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableMediumList1Accent4FirstRow
+
+	{mso-style-name:"Medium List 1 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent4LastRow
+
+	{mso-style-name:"Medium List 1 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent4FirstCol
+
+	{mso-style-name:"Medium List 1 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent4LastCol
+
+	{mso-style-name:"Medium List 1 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:1.0pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent4OddColumn
+
+	{mso-style-name:"Medium List 1 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent4OddRow
+
+	{mso-style-name:"Medium List 1 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent4
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #8064A2 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumList2Accent4FirstRow
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #8064A2;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:12.0pt;
+
+	mso-ansi-font-size:12.0pt;
+
+	mso-bidi-font-size:12.0pt;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent4LastRow
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.0pt solid #8064A2;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent4FirstCol
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent4LastCol
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:1.0pt solid #8064A2;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent4OddColumn
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent4OddRow
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent4NWCell
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent4SWCell
+
+	{mso-style-name:"Medium List 2 - Accent 4";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent4
+
+	{mso-style-name:"Medium Grid 1 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid1Accent4FirstRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent4LastRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent4FirstCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent4LastCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent4OddColumn
+
+	{mso-style-name:"Medium Grid 1 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent4OddRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent4
+
+	{mso-style-name:"Medium Grid 2 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #8064A2 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent4FirstRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2EFF6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent4LastRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent4FirstCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent4LastCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent4OddColumn
+
+	{mso-style-name:"Medium Grid 2 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent4OddRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent4NWCell
+
+	{mso-style-name:"Medium Grid 2 - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent4
+
+	{mso-style-name:"Medium Grid 3 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid3Accent4FirstRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:3.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent4LastRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:3.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent4FirstCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent4LastCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:3.0pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent4OddColumn
+
+	{mso-style-name:"Medium Grid 3 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent4OddRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent4
+
+	{mso-style-name:"Dark List - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTableDarkListAccent4FirstRow
+
+	{mso-style-name:"Dark List - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableDarkListAccent4LastRow
+
+	{mso-style-name:"Dark List - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#3F3151;
+
+	mso-tstyle-border-top:2.25pt solid white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent4FirstCol
+
+	{mso-style-name:"Dark List - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5F497A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent4LastCol
+
+	{mso-style-name:"Dark List - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5F497A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:2.25pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent4OddColumn
+
+	{mso-style-name:"Dark List - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5F497A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent4OddRow
+
+	{mso-style-name:"Dark List - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5F497A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent4
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #8064A2 1.0pt;
+
+	border-top:solid #9BBB59 3.0pt;
+
+	mso-border-alt:solid #8064A2 .5pt;
+
+	mso-border-top-alt:solid #9BBB59 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F2EFF6;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent4FirstRow
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #9BBB59;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent4LastRow
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4C3B62;
+
+	mso-tstyle-border-top:.75pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent4FirstCol
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4C3B62;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #4C3B62;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent4LastCol
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4C3B62;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent4OddColumn
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCC0D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent4OddRow
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent4NECell
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent4NWCell
+
+	{mso-style-name:"Colorful Shading - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulListAccent4
+
+	{mso-style-name:"Colorful List - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F2EFF6;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulListAccent4FirstRow
+
+	{mso-style-name:"Colorful List - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#7E9C40;
+
+	mso-tstyle-border-bottom:1.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent4LastRow
+
+	{mso-style-name:"Colorful List - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:#7E9C40;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent4FirstCol
+
+	{mso-style-name:"Colorful List - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent4LastCol
+
+	{mso-style-name:"Colorful List - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent4OddColumn
+
+	{mso-style-name:"Colorful List - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DFD8E8;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulListAccent4OddRow
+
+	{mso-style-name:"Colorful List - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent4
+
+	{mso-style-name:"Colorful Grid - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulGridAccent4FirstRow
+
+	{mso-style-name:"Colorful Grid - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCC0D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent4LastRow
+
+	{mso-style-name:"Colorful Grid - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCC0D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent4FirstCol
+
+	{mso-style-name:"Colorful Grid - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5F497A;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent4LastCol
+
+	{mso-style-name:"Colorful Grid - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#5F497A;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent4OddColumn
+
+	{mso-style-name:"Colorful Grid - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent4OddRow
+
+	{mso-style-name:"Colorful Grid - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#BFB1D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent5
+
+	{mso-style-name:"Light Shading - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #4BACC6 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #4BACC6 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#31849B;}
+
+table.MsoTableLightShadingAccent5FirstRow
+
+	{mso-style-name:"Light Shading - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent5LastRow
+
+	{mso-style-name:"Light Shading - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent5FirstCol
+
+	{mso-style-name:"Light Shading - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent5LastCol
+
+	{mso-style-name:"Light Shading - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent5OddColumn
+
+	{mso-style-name:"Light Shading - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent5OddRow
+
+	{mso-style-name:"Light Shading - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent5
+
+	{mso-style-name:"Light List - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4BACC6 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightListAccent5FirstRow
+
+	{mso-style-name:"Light List - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent5LastRow
+
+	{mso-style-name:"Light List - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent5FirstCol
+
+	{mso-style-name:"Light List - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent5LastCol
+
+	{mso-style-name:"Light List - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent5OddColumn
+
+	{mso-style-name:"Light List - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent5OddRow
+
+	{mso-style-name:"Light List - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent5
+
+	{mso-style-name:"Light Grid - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4BACC6 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightGridAccent5FirstRow
+
+	{mso-style-name:"Light Grid - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:2.25pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent5LastRow
+
+	{mso-style-name:"Light Grid - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent5FirstCol
+
+	{mso-style-name:"Light Grid - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent5LastCol
+
+	{mso-style-name:"Light Grid - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent5OddColumn
+
+	{mso-style-name:"Light Grid - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent5OddRow
+
+	{mso-style-name:"Light Grid - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent5EvenRow
+
+	{mso-style-name:"Light Grid - Accent 5";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent5
+
+	{mso-style-name:"Medium Shading 1 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading1Accent5FirstRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:1.0pt solid windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent5LastRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent5FirstCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent5LastCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent5OddColumn
+
+	{mso-style-name:"Medium Shading 1 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent5OddRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent5EvenRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 5";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent5
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 2.25pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 2.25pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading2Accent5FirstRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent5LastRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;}
+
+table.MsoTableMediumShading2Accent5FirstCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent5LastCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent5OddColumn
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent5OddRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent5NECell
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent5NWCell
+
+	{mso-style-name:"Medium Shading 2 - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableMediumList1Accent5
+
+	{mso-style-name:"Medium List 1 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #4BACC6 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #4BACC6 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableMediumList1Accent5FirstRow
+
+	{mso-style-name:"Medium List 1 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent5LastRow
+
+	{mso-style-name:"Medium List 1 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent5FirstCol
+
+	{mso-style-name:"Medium List 1 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent5LastCol
+
+	{mso-style-name:"Medium List 1 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:1.0pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent5OddColumn
+
+	{mso-style-name:"Medium List 1 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent5OddRow
+
+	{mso-style-name:"Medium List 1 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent5
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4BACC6 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumList2Accent5FirstRow
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:12.0pt;
+
+	mso-ansi-font-size:12.0pt;
+
+	mso-bidi-font-size:12.0pt;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent5LastRow
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent5FirstCol
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent5LastCol
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:1.0pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent5OddColumn
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent5OddRow
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent5NWCell
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent5SWCell
+
+	{mso-style-name:"Medium List 2 - Accent 5";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent5
+
+	{mso-style-name:"Medium Grid 1 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid1Accent5FirstRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent5LastRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent5FirstCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent5LastCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent5OddColumn
+
+	{mso-style-name:"Medium Grid 1 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent5OddRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent5
+
+	{mso-style-name:"Medium Grid 2 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4BACC6 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent5FirstRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EDF6F9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent5LastRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent5FirstCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent5LastCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent5OddColumn
+
+	{mso-style-name:"Medium Grid 2 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent5OddRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent5NWCell
+
+	{mso-style-name:"Medium Grid 2 - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent5
+
+	{mso-style-name:"Medium Grid 3 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid3Accent5FirstRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:3.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent5LastRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:3.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent5FirstCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent5LastCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:3.0pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent5OddColumn
+
+	{mso-style-name:"Medium Grid 3 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent5OddRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent5
+
+	{mso-style-name:"Dark List - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTableDarkListAccent5FirstRow
+
+	{mso-style-name:"Dark List - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableDarkListAccent5LastRow
+
+	{mso-style-name:"Dark List - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#205867;
+
+	mso-tstyle-border-top:2.25pt solid white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent5FirstCol
+
+	{mso-style-name:"Dark List - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#31849B;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent5LastCol
+
+	{mso-style-name:"Dark List - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#31849B;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:2.25pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent5OddColumn
+
+	{mso-style-name:"Dark List - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#31849B;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent5OddRow
+
+	{mso-style-name:"Dark List - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#31849B;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent5
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4BACC6 1.0pt;
+
+	border-top:solid #F79646 3.0pt;
+
+	mso-border-alt:solid #4BACC6 .5pt;
+
+	mso-border-top-alt:solid #F79646 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EDF6F9;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent5FirstRow
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #F79646;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent5LastRow
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#276A7C;
+
+	mso-tstyle-border-top:.75pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent5FirstCol
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#276A7C;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #276A7C;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent5LastCol
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#276A7C;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent5OddColumn
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B6DDE8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent5OddRow
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent5NECell
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent5NWCell
+
+	{mso-style-name:"Colorful Shading - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulListAccent5
+
+	{mso-style-name:"Colorful List - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EDF6F9;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulListAccent5FirstRow
+
+	{mso-style-name:"Colorful List - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2730A;
+
+	mso-tstyle-border-bottom:1.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent5LastRow
+
+	{mso-style-name:"Colorful List - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:#F2730A;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent5FirstCol
+
+	{mso-style-name:"Colorful List - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent5LastCol
+
+	{mso-style-name:"Colorful List - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent5OddColumn
+
+	{mso-style-name:"Colorful List - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D2EAF1;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulListAccent5OddRow
+
+	{mso-style-name:"Colorful List - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent5
+
+	{mso-style-name:"Colorful Grid - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulGridAccent5FirstRow
+
+	{mso-style-name:"Colorful Grid - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B6DDE8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent5LastRow
+
+	{mso-style-name:"Colorful Grid - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B6DDE8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent5FirstCol
+
+	{mso-style-name:"Colorful Grid - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#31849B;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent5LastCol
+
+	{mso-style-name:"Colorful Grid - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#31849B;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent5OddColumn
+
+	{mso-style-name:"Colorful Grid - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent5OddRow
+
+	{mso-style-name:"Colorful Grid - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#A5D5E2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent6
+
+	{mso-style-name:"Light Shading - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #F79646 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #F79646 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#E36C0A;}
+
+table.MsoTableLightShadingAccent6FirstRow
+
+	{mso-style-name:"Light Shading - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent6LastRow
+
+	{mso-style-name:"Light Shading - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent6FirstCol
+
+	{mso-style-name:"Light Shading - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent6LastCol
+
+	{mso-style-name:"Light Shading - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightShadingAccent6OddColumn
+
+	{mso-style-name:"Light Shading - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightShadingAccent6OddRow
+
+	{mso-style-name:"Light Shading - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent6
+
+	{mso-style-name:"Light List - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #F79646 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightListAccent6FirstRow
+
+	{mso-style-name:"Light List - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent6LastRow
+
+	{mso-style-name:"Light List - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent6FirstCol
+
+	{mso-style-name:"Light List - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent6LastCol
+
+	{mso-style-name:"Light List - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightListAccent6OddColumn
+
+	{mso-style-name:"Light List - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightListAccent6OddRow
+
+	{mso-style-name:"Light List - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent6
+
+	{mso-style-name:"Light Grid - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #F79646 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableLightGridAccent6FirstRow
+
+	{mso-style-name:"Light Grid - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:2.25pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent6LastRow
+
+	{mso-style-name:"Light Grid - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent6FirstCol
+
+	{mso-style-name:"Light Grid - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent6LastCol
+
+	{mso-style-name:"Light Grid - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableLightGridAccent6OddColumn
+
+	{mso-style-name:"Light Grid - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent6OddRow
+
+	{mso-style-name:"Light Grid - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableLightGridAccent6EvenRow
+
+	{mso-style-name:"Light Grid - Accent 6";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-tstyle-border-right:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent6
+
+	{mso-style-name:"Medium Shading 1 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading1Accent6FirstRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:1.0pt solid windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent6LastRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:1.0pt solid windowtext;
+
+	mso-tstyle-border-bottom:1.0pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent6FirstCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent6LastCol
+
+	{mso-style-name:"Medium Shading 1 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading1Accent6OddColumn
+
+	{mso-style-name:"Medium Shading 1 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent6OddRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading1Accent6EvenRow
+
+	{mso-style-name:"Medium Shading 1 - Accent 6";
+
+	mso-table-condition:even-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent6
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 2.25pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 2.25pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumShading2Accent6FirstRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent6LastRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:2.25pt double windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;}
+
+table.MsoTableMediumShading2Accent6FirstCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent6LastCol
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumShading2Accent6OddColumn
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent6OddRow
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D8D8D8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent6NECell
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumShading2Accent6NWCell
+
+	{mso-style-name:"Medium Shading 2 - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid windowtext;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableMediumList1Accent6
+
+	{mso-style-name:"Medium List 1 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #F79646 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #F79646 1.0pt;
+
+	border-right:none;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableMediumList1Accent6FirstRow
+
+	{mso-style-name:"Medium List 1 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent6LastRow
+
+	{mso-style-name:"Medium List 1 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:windowtext;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent6FirstCol
+
+	{mso-style-name:"Medium List 1 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent6LastCol
+
+	{mso-style-name:"Medium List 1 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:1.0pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumList1Accent6OddColumn
+
+	{mso-style-name:"Medium List 1 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList1Accent6OddRow
+
+	{mso-style-name:"Medium List 1 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent6
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #F79646 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumList2Accent6FirstRow
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #F79646;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:12.0pt;
+
+	mso-ansi-font-size:12.0pt;
+
+	mso-bidi-font-size:12.0pt;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent6LastRow
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.0pt solid #F79646;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent6FirstCol
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent6LastCol
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:1.0pt solid #F79646;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent6OddColumn
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent6OddRow
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent6NWCell
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumList2Accent6SWCell
+
+	{mso-style-name:"Medium List 2 - Accent 6";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent6
+
+	{mso-style-name:"Medium Grid 1 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid1Accent6FirstRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent6LastRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:2.25pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent6FirstCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent6LastCol
+
+	{mso-style-name:"Medium Grid 1 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid1Accent6OddColumn
+
+	{mso-style-name:"Medium Grid 1 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid1Accent6OddRow
+
+	{mso-style-name:"Medium Grid 1 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent6
+
+	{mso-style-name:"Medium Grid 2 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #F79646 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Cambria",serif;
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent6FirstRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FEF4EC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent6LastRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent6FirstCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid2Accent6LastCol
+
+	{mso-style-name:"Medium Grid 2 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableMediumGrid2Accent6OddColumn
+
+	{mso-style-name:"Medium Grid 2 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent6OddRow
+
+	{mso-style-name:"Medium Grid 2 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid2Accent6NWCell
+
+	{mso-style-name:"Medium Grid 2 - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Cambria",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent6
+
+	{mso-style-name:"Medium Grid 3 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTableMediumGrid3Accent6FirstRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:3.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent6LastRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:3.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent6FirstCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent6LastCol
+
+	{mso-style-name:"Medium Grid 3 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:3.0pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableMediumGrid3Accent6OddColumn
+
+	{mso-style-name:"Medium Grid 3 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableMediumGrid3Accent6OddRow
+
+	{mso-style-name:"Medium Grid 3 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-tstyle-border-top:1.0pt solid white;
+
+	mso-tstyle-border-left:1.0pt solid white;
+
+	mso-tstyle-border-bottom:1.0pt solid white;
+
+	mso-tstyle-border-right:1.0pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent6
+
+	{mso-style-name:"Dark List - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTableDarkListAccent6FirstRow
+
+	{mso-style-name:"Dark List - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableDarkListAccent6LastRow
+
+	{mso-style-name:"Dark List - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#974706;
+
+	mso-tstyle-border-top:2.25pt solid white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent6FirstCol
+
+	{mso-style-name:"Dark List - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E36C0A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent6LastCol
+
+	{mso-style-name:"Dark List - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E36C0A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:2.25pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent6OddColumn
+
+	{mso-style-name:"Dark List - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E36C0A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableDarkListAccent6OddRow
+
+	{mso-style-name:"Dark List - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E36C0A;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent6
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #F79646 1.0pt;
+
+	border-top:solid #4BACC6 3.0pt;
+
+	mso-border-alt:solid #F79646 .5pt;
+
+	mso-border-top-alt:solid #4BACC6 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#FEF4EC;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent6FirstRow
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:3.0pt solid #4BACC6;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent6LastRow
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B65608;
+
+	mso-tstyle-border-top:.75pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulShadingAccent6FirstCol
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B65608;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:0in none #B65608;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent6LastCol
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B65608;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulShadingAccent6OddColumn
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBD4B4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent6OddRow
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulShadingAccent6NECell
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulShadingAccent6NWCell
+
+	{mso-style-name:"Colorful Shading - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;}
+
+table.MsoTableColorfulListAccent6
+
+	{mso-style-name:"Colorful List - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#FEF4EC;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulListAccent6FirstRow
+
+	{mso-style-name:"Colorful List - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#348DA5;
+
+	mso-tstyle-border-bottom:1.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent6LastRow
+
+	{mso-style-name:"Colorful List - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:#348DA5;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent6FirstCol
+
+	{mso-style-name:"Colorful List - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent6LastCol
+
+	{mso-style-name:"Colorful List - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulListAccent6OddColumn
+
+	{mso-style-name:"Colorful List - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE4D0;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulListAccent6OddRow
+
+	{mso-style-name:"Colorful List - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent6
+
+	{mso-style-name:"Colorful Grid - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTableColorfulGridAccent6FirstRow
+
+	{mso-style-name:"Colorful Grid - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBD4B4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent6LastRow
+
+	{mso-style-name:"Colorful Grid - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBD4B4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:black;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTableColorfulGridAccent6FirstCol
+
+	{mso-style-name:"Colorful Grid - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E36C0A;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent6LastCol
+
+	{mso-style-name:"Colorful Grid - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E36C0A;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;}
+
+table.MsoTableColorfulGridAccent6OddColumn
+
+	{mso-style-name:"Colorful Grid - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableColorfulGridAccent6OddRow
+
+	{mso-style-name:"Colorful Grid - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBCAA2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain1
+
+	{mso-style-name:"Plain Table 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Plain1FirstRow
+
+	{mso-style-name:"Plain Table 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain1LastRow
+
+	{mso-style-name:"Plain Table 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain1FirstCol
+
+	{mso-style-name:"Plain Table 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain1LastCol
+
+	{mso-style-name:"Plain Table 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain1OddColumn
+
+	{mso-style-name:"Plain Table 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2F2F2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain1OddRow
+
+	{mso-style-name:"Plain Table 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2F2F2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain2
+
+	{mso-style-name:"Plain Table 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .5pt;
+
+	mso-border-bottom-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Plain2FirstRow
+
+	{mso-style-name:"Plain Table 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain2LastRow
+
+	{mso-style-name:"Plain Table 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain2FirstCol
+
+	{mso-style-name:"Plain Table 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain2LastCol
+
+	{mso-style-name:"Plain Table 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain2OddColumn
+
+	{mso-style-name:"Plain Table 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid windowtext;
+
+	mso-tstyle-border-right:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain2EvenColumn
+
+	{mso-style-name:"Plain Table 2";
+
+	mso-table-condition:even-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid windowtext;
+
+	mso-tstyle-border-right:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain2OddRow
+
+	{mso-style-name:"Plain Table 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain3
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Plain3FirstRow
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	text-transform:uppercase;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain3LastRow
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	text-transform:uppercase;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain3FirstCol
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	text-transform:uppercase;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain3LastCol
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	text-transform:uppercase;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain3OddColumn
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2F2F2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain3OddRow
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2F2F2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain3NECell
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain3NWCell
+
+	{mso-style-name:"Plain Table 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain4
+
+	{mso-style-name:"Plain Table 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Plain4FirstRow
+
+	{mso-style-name:"Plain Table 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain4LastRow
+
+	{mso-style-name:"Plain Table 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain4FirstCol
+
+	{mso-style-name:"Plain Table 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain4LastCol
+
+	{mso-style-name:"Plain Table 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Plain4OddColumn
+
+	{mso-style-name:"Plain Table 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2F2F2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain4OddRow
+
+	{mso-style-name:"Plain Table 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2F2F2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain5
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Plain5FirstRow
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Plain5LastRow
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Plain5FirstCol
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Plain5LastCol
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Plain5OddColumn
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2F2F2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain5OddRow
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2F2F2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain5NECell
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain5NWCell
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain5SECell
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Plain5SWCell
+
+	{mso-style-name:"Plain Table 5";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTableGridLight
+
+	{mso-style-name:"Table Grid Light";
+
+	mso-tstyle-rowband-size:0;
+
+	mso-tstyle-colband-size:0;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid1Light
+
+	{mso-style-name:"Grid Table 1 Light";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #999999 1.0pt;
+
+	mso-border-alt:solid #999999 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid1LightFirstRow
+
+	{mso-style-name:"Grid Table 1 Light";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightLastRow
+
+	{mso-style-name:"Grid Table 1 Light";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightFirstCol
+
+	{mso-style-name:"Grid Table 1 Light";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightLastCol
+
+	{mso-style-name:"Grid Table 1 Light";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2
+
+	{mso-style-name:"Grid Table 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .25pt;
+
+	mso-border-bottom-alt:solid windowtext .25pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid2FirstRow
+
+	{mso-style-name:"Grid Table 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2LastRow
+
+	{mso-style-name:"Grid Table 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2FirstCol
+
+	{mso-style-name:"Grid Table 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2LastCol
+
+	{mso-style-name:"Grid Table 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2OddColumn
+
+	{mso-style-name:"Grid Table 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid2OddRow
+
+	{mso-style-name:"Grid Table 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid3FirstRow
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3LastRow
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3FirstCol
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3LastCol
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3OddColumn
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3OddRow
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3NECell
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3NWCell
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3SECell
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3SWCell
+
+	{mso-style-name:"Grid Table 3";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4
+
+	{mso-style-name:"Grid Table 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid4FirstRow
+
+	{mso-style-name:"Grid Table 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:.5pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:.5pt solid black;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4LastRow
+
+	{mso-style-name:"Grid Table 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4FirstCol
+
+	{mso-style-name:"Grid Table 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4LastCol
+
+	{mso-style-name:"Grid Table 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4OddColumn
+
+	{mso-style-name:"Grid Table 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4OddRow
+
+	{mso-style-name:"Grid Table 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5Dark
+
+	{mso-style-name:"Grid Table 5 Dark";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-border-alt:solid white .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid5DarkFirstRow
+
+	{mso-style-name:"Grid Table 5 Dark";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkLastRow
+
+	{mso-style-name:"Grid Table 5 Dark";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkFirstCol
+
+	{mso-style-name:"Grid Table 5 Dark";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkLastCol
+
+	{mso-style-name:"Grid Table 5 Dark";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkOddColumn
+
+	{mso-style-name:"Grid Table 5 Dark";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#999999;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkOddRow
+
+	{mso-style-name:"Grid Table 5 Dark";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#999999;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6Colorful
+
+	{mso-style-name:"Grid Table 6 Colorful";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTable15Grid6ColorfulFirstRow
+
+	{mso-style-name:"Grid Table 6 Colorful";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulLastRow
+
+	{mso-style-name:"Grid Table 6 Colorful";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulFirstCol
+
+	{mso-style-name:"Grid Table 6 Colorful";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulLastCol
+
+	{mso-style-name:"Grid Table 6 Colorful";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulOddColumn
+
+	{mso-style-name:"Grid Table 6 Colorful";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulOddRow
+
+	{mso-style-name:"Grid Table 6 Colorful";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7Colorful
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTable15Grid7ColorfulFirstRow
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulLastRow
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulFirstCol
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulLastCol
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulOddColumn
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulOddRow
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulNECell
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulNWCell
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulSECell
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulSWCell
+
+	{mso-style-name:"Grid Table 7 Colorful";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid1LightAccent1
+
+	{mso-style-name:"Grid Table 1 Light - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #B8CCE4 1.0pt;
+
+	mso-border-alt:solid #B8CCE4 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid1LightAccent1FirstRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent1LastRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent1FirstCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent1LastCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent1
+
+	{mso-style-name:"Grid Table 2 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .25pt;
+
+	mso-border-bottom-alt:solid windowtext .25pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid2Accent1FirstRow
+
+	{mso-style-name:"Grid Table 2 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent1LastRow
+
+	{mso-style-name:"Grid Table 2 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent1FirstCol
+
+	{mso-style-name:"Grid Table 2 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent1LastCol
+
+	{mso-style-name:"Grid Table 2 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent1OddColumn
+
+	{mso-style-name:"Grid Table 2 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid2Accent1OddRow
+
+	{mso-style-name:"Grid Table 2 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent1
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid3Accent1FirstRow
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent1LastRow
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent1FirstCol
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent1LastCol
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent1OddColumn
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent1OddRow
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent1NECell
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent1NWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent1SECell
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent1SWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 1";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent1
+
+	{mso-style-name:"Grid Table 4 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid4Accent1FirstRow
+
+	{mso-style-name:"Grid Table 4 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:.5pt solid #4F81BD;
+
+	mso-tstyle-border-left:.5pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:.5pt solid #4F81BD;
+
+	mso-tstyle-border-right:0in none #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent1LastRow
+
+	{mso-style-name:"Grid Table 4 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent1FirstCol
+
+	{mso-style-name:"Grid Table 4 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent1LastCol
+
+	{mso-style-name:"Grid Table 4 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent1OddColumn
+
+	{mso-style-name:"Grid Table 4 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent1OddRow
+
+	{mso-style-name:"Grid Table 4 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent1
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-border-alt:solid white .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid5DarkAccent1FirstRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent1LastRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent1FirstCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent1LastCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent1OddColumn
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B8CCE4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent1OddRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B8CCE4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent1
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#365F91;}
+
+table.MsoTable15Grid6ColorfulAccent1FirstRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent1LastRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent1FirstCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent1LastCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent1OddColumn
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent1OddRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent1
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#365F91;}
+
+table.MsoTable15Grid7ColorfulAccent1FirstRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent1LastRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent1FirstCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent1LastCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent1OddColumn
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent1OddRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent1NECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent1NWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent1SECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent1SWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 1";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid1LightAccent2
+
+	{mso-style-name:"Grid Table 1 Light - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #E5B8B7 1.0pt;
+
+	mso-border-alt:solid #E5B8B7 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid1LightAccent2FirstRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent2LastRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent2FirstCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent2LastCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent2
+
+	{mso-style-name:"Grid Table 2 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .25pt;
+
+	mso-border-bottom-alt:solid windowtext .25pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid2Accent2FirstRow
+
+	{mso-style-name:"Grid Table 2 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent2LastRow
+
+	{mso-style-name:"Grid Table 2 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent2FirstCol
+
+	{mso-style-name:"Grid Table 2 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent2LastCol
+
+	{mso-style-name:"Grid Table 2 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent2OddColumn
+
+	{mso-style-name:"Grid Table 2 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid2Accent2OddRow
+
+	{mso-style-name:"Grid Table 2 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent2
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid3Accent2FirstRow
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent2LastRow
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent2FirstCol
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent2LastCol
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent2OddColumn
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent2OddRow
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent2NECell
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent2NWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent2SECell
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent2SWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 2";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent2
+
+	{mso-style-name:"Grid Table 4 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid4Accent2FirstRow
+
+	{mso-style-name:"Grid Table 4 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:.5pt solid #C0504D;
+
+	mso-tstyle-border-left:.5pt solid #C0504D;
+
+	mso-tstyle-border-bottom:.5pt solid #C0504D;
+
+	mso-tstyle-border-right:0in none #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent2LastRow
+
+	{mso-style-name:"Grid Table 4 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent2FirstCol
+
+	{mso-style-name:"Grid Table 4 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent2LastCol
+
+	{mso-style-name:"Grid Table 4 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent2OddColumn
+
+	{mso-style-name:"Grid Table 4 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent2OddRow
+
+	{mso-style-name:"Grid Table 4 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent2
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-border-alt:solid white .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid5DarkAccent2FirstRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent2LastRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent2FirstCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent2LastCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent2OddColumn
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5B8B7;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent2OddRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5B8B7;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent2
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#943634;}
+
+table.MsoTable15Grid6ColorfulAccent2FirstRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent2LastRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent2FirstCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent2LastCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent2OddColumn
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent2OddRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent2
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#943634;}
+
+table.MsoTable15Grid7ColorfulAccent2FirstRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent2LastRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent2FirstCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent2LastCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent2OddColumn
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent2OddRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent2NECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent2NWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent2SECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent2SWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 2";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid1LightAccent3
+
+	{mso-style-name:"Grid Table 1 Light - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #D6E3BC 1.0pt;
+
+	mso-border-alt:solid #D6E3BC .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid1LightAccent3FirstRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent3LastRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent3FirstCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent3LastCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent3
+
+	{mso-style-name:"Grid Table 2 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .25pt;
+
+	mso-border-bottom-alt:solid windowtext .25pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid2Accent3FirstRow
+
+	{mso-style-name:"Grid Table 2 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent3LastRow
+
+	{mso-style-name:"Grid Table 2 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent3FirstCol
+
+	{mso-style-name:"Grid Table 2 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent3LastCol
+
+	{mso-style-name:"Grid Table 2 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent3OddColumn
+
+	{mso-style-name:"Grid Table 2 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid2Accent3OddRow
+
+	{mso-style-name:"Grid Table 2 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent3
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid3Accent3FirstRow
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent3LastRow
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent3FirstCol
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent3LastCol
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent3OddColumn
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent3OddRow
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent3NECell
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent3NWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent3SECell
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent3SWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 3";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent3
+
+	{mso-style-name:"Grid Table 4 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid4Accent3FirstRow
+
+	{mso-style-name:"Grid Table 4 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:.5pt solid #9BBB59;
+
+	mso-tstyle-border-left:.5pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:.5pt solid #9BBB59;
+
+	mso-tstyle-border-right:0in none #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent3LastRow
+
+	{mso-style-name:"Grid Table 4 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent3FirstCol
+
+	{mso-style-name:"Grid Table 4 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent3LastCol
+
+	{mso-style-name:"Grid Table 4 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent3OddColumn
+
+	{mso-style-name:"Grid Table 4 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent3OddRow
+
+	{mso-style-name:"Grid Table 4 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent3
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-border-alt:solid white .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid5DarkAccent3FirstRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent3LastRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent3FirstCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent3LastCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent3OddColumn
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D6E3BC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent3OddRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#D6E3BC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent3
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#76923C;}
+
+table.MsoTable15Grid6ColorfulAccent3FirstRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent3LastRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent3FirstCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent3LastCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent3OddColumn
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent3OddRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent3
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#76923C;}
+
+table.MsoTable15Grid7ColorfulAccent3FirstRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent3LastRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent3FirstCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent3LastCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent3OddColumn
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent3OddRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent3NECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent3NWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent3SECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent3SWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 3";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid1LightAccent4
+
+	{mso-style-name:"Grid Table 1 Light - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #CCC0D9 1.0pt;
+
+	mso-border-alt:solid #CCC0D9 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid1LightAccent4FirstRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent4LastRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent4FirstCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent4LastCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent4
+
+	{mso-style-name:"Grid Table 2 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .25pt;
+
+	mso-border-bottom-alt:solid windowtext .25pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid2Accent4FirstRow
+
+	{mso-style-name:"Grid Table 2 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent4LastRow
+
+	{mso-style-name:"Grid Table 2 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent4FirstCol
+
+	{mso-style-name:"Grid Table 2 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent4LastCol
+
+	{mso-style-name:"Grid Table 2 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent4OddColumn
+
+	{mso-style-name:"Grid Table 2 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid2Accent4OddRow
+
+	{mso-style-name:"Grid Table 2 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent4
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid3Accent4FirstRow
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent4LastRow
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent4FirstCol
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent4LastCol
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent4OddColumn
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent4OddRow
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent4NECell
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent4NWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent4SECell
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent4SWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 4";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent4
+
+	{mso-style-name:"Grid Table 4 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid4Accent4FirstRow
+
+	{mso-style-name:"Grid Table 4 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:.5pt solid #8064A2;
+
+	mso-tstyle-border-left:.5pt solid #8064A2;
+
+	mso-tstyle-border-bottom:.5pt solid #8064A2;
+
+	mso-tstyle-border-right:0in none #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent4LastRow
+
+	{mso-style-name:"Grid Table 4 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent4FirstCol
+
+	{mso-style-name:"Grid Table 4 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent4LastCol
+
+	{mso-style-name:"Grid Table 4 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent4OddColumn
+
+	{mso-style-name:"Grid Table 4 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent4OddRow
+
+	{mso-style-name:"Grid Table 4 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent4
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-border-alt:solid white .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid5DarkAccent4FirstRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent4LastRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent4FirstCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent4LastCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent4OddColumn
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCC0D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent4OddRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCC0D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent4
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#5F497A;}
+
+table.MsoTable15Grid6ColorfulAccent4FirstRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent4LastRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent4FirstCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent4LastCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent4OddColumn
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent4OddRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent4
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#5F497A;}
+
+table.MsoTable15Grid7ColorfulAccent4FirstRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent4LastRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent4FirstCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent4LastCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent4OddColumn
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent4OddRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent4NECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent4NWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent4SECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent4SWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 4";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid1LightAccent5
+
+	{mso-style-name:"Grid Table 1 Light - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #B6DDE8 1.0pt;
+
+	mso-border-alt:solid #B6DDE8 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid1LightAccent5FirstRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent5LastRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent5FirstCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent5LastCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent5
+
+	{mso-style-name:"Grid Table 2 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .25pt;
+
+	mso-border-bottom-alt:solid windowtext .25pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid2Accent5FirstRow
+
+	{mso-style-name:"Grid Table 2 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent5LastRow
+
+	{mso-style-name:"Grid Table 2 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent5FirstCol
+
+	{mso-style-name:"Grid Table 2 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent5LastCol
+
+	{mso-style-name:"Grid Table 2 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent5OddColumn
+
+	{mso-style-name:"Grid Table 2 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid2Accent5OddRow
+
+	{mso-style-name:"Grid Table 2 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent5
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid3Accent5FirstRow
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent5LastRow
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent5FirstCol
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent5LastCol
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent5OddColumn
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent5OddRow
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent5NECell
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent5NWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent5SECell
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent5SWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 5";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent5
+
+	{mso-style-name:"Grid Table 4 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid4Accent5FirstRow
+
+	{mso-style-name:"Grid Table 4 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:.5pt solid #4BACC6;
+
+	mso-tstyle-border-left:.5pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:.5pt solid #4BACC6;
+
+	mso-tstyle-border-right:0in none #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent5LastRow
+
+	{mso-style-name:"Grid Table 4 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent5FirstCol
+
+	{mso-style-name:"Grid Table 4 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent5LastCol
+
+	{mso-style-name:"Grid Table 4 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent5OddColumn
+
+	{mso-style-name:"Grid Table 4 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent5OddRow
+
+	{mso-style-name:"Grid Table 4 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent5
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-border-alt:solid white .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid5DarkAccent5FirstRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent5LastRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent5FirstCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent5LastCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent5OddColumn
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B6DDE8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent5OddRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#B6DDE8;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent5
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#31849B;}
+
+table.MsoTable15Grid6ColorfulAccent5FirstRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent5LastRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent5FirstCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent5LastCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent5OddColumn
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent5OddRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent5
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#31849B;}
+
+table.MsoTable15Grid7ColorfulAccent5FirstRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent5LastRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent5FirstCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent5LastCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent5OddColumn
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent5OddRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent5NECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent5NWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent5SECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent5SWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 5";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid1LightAccent6
+
+	{mso-style-name:"Grid Table 1 Light - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #FBD4B4 1.0pt;
+
+	mso-border-alt:solid #FBD4B4 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid1LightAccent6FirstRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent6LastRow
+
+	{mso-style-name:"Grid Table 1 Light - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent6FirstCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid1LightAccent6LastCol
+
+	{mso-style-name:"Grid Table 1 Light - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent6
+
+	{mso-style-name:"Grid Table 2 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .25pt;
+
+	mso-border-bottom-alt:solid windowtext .25pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid2Accent6FirstRow
+
+	{mso-style-name:"Grid Table 2 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent6LastRow
+
+	{mso-style-name:"Grid Table 2 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.75pt double windowtext;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent6FirstCol
+
+	{mso-style-name:"Grid Table 2 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent6LastCol
+
+	{mso-style-name:"Grid Table 2 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid2Accent6OddColumn
+
+	{mso-style-name:"Grid Table 2 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid2Accent6OddRow
+
+	{mso-style-name:"Grid Table 2 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent6
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid3Accent6FirstRow
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent6LastRow
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid3Accent6FirstCol
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent6LastCol
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid3Accent6OddColumn
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent6OddRow
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent6NECell
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent6NWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent6SECell
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid3Accent6SWCell
+
+	{mso-style-name:"Grid Table 3 - Accent 6";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent6
+
+	{mso-style-name:"Grid Table 4 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid4Accent6FirstRow
+
+	{mso-style-name:"Grid Table 4 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:.5pt solid #F79646;
+
+	mso-tstyle-border-left:.5pt solid #F79646;
+
+	mso-tstyle-border-bottom:.5pt solid #F79646;
+
+	mso-tstyle-border-right:0in none #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent6LastRow
+
+	{mso-style-name:"Grid Table 4 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent6FirstCol
+
+	{mso-style-name:"Grid Table 4 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent6LastCol
+
+	{mso-style-name:"Grid Table 4 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid4Accent6OddColumn
+
+	{mso-style-name:"Grid Table 4 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid4Accent6OddRow
+
+	{mso-style-name:"Grid Table 4 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent6
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid white 1.0pt;
+
+	mso-border-alt:solid white .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15Grid5DarkAccent6FirstRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent6LastRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent6FirstCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent6LastCol
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-tstyle-border-right:0in none white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid5DarkAccent6OddColumn
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBD4B4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid5DarkAccent6OddRow
+
+	{mso-style-name:"Grid Table 5 Dark - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FBD4B4;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent6
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#E36C0A;}
+
+table.MsoTable15Grid6ColorfulAccent6FirstRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:1.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent6LastRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent6FirstCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent6LastCol
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid6ColorfulAccent6OddColumn
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid6ColorfulAccent6OddRow
+
+	{mso-style-name:"Grid Table 6 Colorful - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent6
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#E36C0A;}
+
+table.MsoTable15Grid7ColorfulAccent6FirstRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent6LastRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15Grid7ColorfulAccent6FirstCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent6LastCol
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15Grid7ColorfulAccent6OddColumn
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent6OddRow
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent6NECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent6NWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent6SECell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15Grid7ColorfulAccent6SWCell
+
+	{mso-style-name:"Grid Table 7 Colorful - Accent 6";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1Light
+
+	{mso-style-name:"List Table 1 Light";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List1LightFirstRow
+
+	{mso-style-name:"List Table 1 Light";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightLastRow
+
+	{mso-style-name:"List Table 1 Light";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightFirstCol
+
+	{mso-style-name:"List Table 1 Light";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightLastCol
+
+	{mso-style-name:"List Table 1 Light";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightOddColumn
+
+	{mso-style-name:"List Table 1 Light";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightOddRow
+
+	{mso-style-name:"List Table 1 Light";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2
+
+	{mso-style-name:"List Table 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .5pt;
+
+	mso-border-bottom-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List2FirstRow
+
+	{mso-style-name:"List Table 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2LastRow
+
+	{mso-style-name:"List Table 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2FirstCol
+
+	{mso-style-name:"List Table 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2LastCol
+
+	{mso-style-name:"List Table 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2OddColumn
+
+	{mso-style-name:"List Table 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2OddRow
+
+	{mso-style-name:"List Table 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3
+
+	{mso-style-name:"List Table 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid black 1.0pt;
+
+	mso-border-alt:solid black .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List3FirstRow
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3LastRow
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt double black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3FirstCol
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3LastCol
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3OddColumn
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3OddRow
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid black;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3NECell
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3NWCell
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3SECell
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double black;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3SWCell
+
+	{mso-style-name:"List Table 3";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double black;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4
+
+	{mso-style-name:"List Table 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List4FirstRow
+
+	{mso-style-name:"List Table 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:black;
+
+	mso-tstyle-border-top:.5pt solid black;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-tstyle-border-bottom:.5pt solid black;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4LastRow
+
+	{mso-style-name:"List Table 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4FirstCol
+
+	{mso-style-name:"List Table 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4LastCol
+
+	{mso-style-name:"List Table 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4OddColumn
+
+	{mso-style-name:"List Table 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4OddRow
+
+	{mso-style-name:"List Table 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5Dark
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid black 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:black;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTable15List5DarkFirstRow
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkLastRow
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkFirstCol
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkLastCol
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkOddColumn
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkEvenColumn
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:even-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkOddRow
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkNECell
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkNWCell
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkSECell
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkSWCell
+
+	{mso-style-name:"List Table 5 Dark";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6Colorful
+
+	{mso-style-name:"List Table 6 Colorful";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid black 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid black 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid black .5pt;
+
+	mso-border-bottom-alt:solid black .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTable15List6ColorfulFirstRow
+
+	{mso-style-name:"List Table 6 Colorful";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulLastRow
+
+	{mso-style-name:"List Table 6 Colorful";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulFirstCol
+
+	{mso-style-name:"List Table 6 Colorful";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulLastCol
+
+	{mso-style-name:"List Table 6 Colorful";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulOddColumn
+
+	{mso-style-name:"List Table 6 Colorful";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulOddRow
+
+	{mso-style-name:"List Table 6 Colorful";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7Colorful
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:black;}
+
+table.MsoTable15List7ColorfulFirstRow
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-bottom:.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulLastRow
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.5pt solid black;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulFirstCol
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulLastCol
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:.75pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulOddColumn
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulOddRow
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#CCCCCC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulNECell
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulNWCell
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulSECell
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulSWCell
+
+	{mso-style-name:"List Table 7 Colorful";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent1
+
+	{mso-style-name:"List Table 1 Light - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List1LightAccent1FirstRow
+
+	{mso-style-name:"List Table 1 Light - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent1LastRow
+
+	{mso-style-name:"List Table 1 Light - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent1FirstCol
+
+	{mso-style-name:"List Table 1 Light - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent1LastCol
+
+	{mso-style-name:"List Table 1 Light - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent1OddColumn
+
+	{mso-style-name:"List Table 1 Light - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent1OddRow
+
+	{mso-style-name:"List Table 1 Light - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent1
+
+	{mso-style-name:"List Table 2 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .5pt;
+
+	mso-border-bottom-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List2Accent1FirstRow
+
+	{mso-style-name:"List Table 2 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent1LastRow
+
+	{mso-style-name:"List Table 2 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent1FirstCol
+
+	{mso-style-name:"List Table 2 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent1LastCol
+
+	{mso-style-name:"List Table 2 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent1OddColumn
+
+	{mso-style-name:"List Table 2 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent1OddRow
+
+	{mso-style-name:"List Table 2 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent1
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4F81BD 1.0pt;
+
+	mso-border-alt:solid #4F81BD .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List3Accent1FirstRow
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent1LastRow
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt double #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent1FirstCol
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent1LastCol
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent1OddColumn
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid #4F81BD;
+
+	mso-tstyle-border-right:.5pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent1OddRow
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent1NECell
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent1NWCell
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent1SECell
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #4F81BD;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent1SWCell
+
+	{mso-style-name:"List Table 3 - Accent 1";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #4F81BD;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent1
+
+	{mso-style-name:"List Table 4 - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List4Accent1FirstRow
+
+	{mso-style-name:"List Table 4 - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-tstyle-border-top:.5pt solid #4F81BD;
+
+	mso-tstyle-border-left:.5pt solid #4F81BD;
+
+	mso-tstyle-border-bottom:.5pt solid #4F81BD;
+
+	mso-tstyle-border-right:0in none #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent1LastRow
+
+	{mso-style-name:"List Table 4 - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent1FirstCol
+
+	{mso-style-name:"List Table 4 - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent1LastCol
+
+	{mso-style-name:"List Table 4 - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent1OddColumn
+
+	{mso-style-name:"List Table 4 - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent1OddRow
+
+	{mso-style-name:"List Table 4 - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent1
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4F81BD 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#4F81BD;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTable15List5DarkAccent1FirstRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent1LastRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent1FirstCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent1LastCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent1OddColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent1EvenColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:even-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent1OddRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent1NECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent1NWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent1SECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent1SWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 1";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent1
+
+	{mso-style-name:"List Table 6 Colorful - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #4F81BD 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #4F81BD 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid #4F81BD .5pt;
+
+	mso-border-bottom-alt:solid #4F81BD .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#365F91;}
+
+table.MsoTable15List6ColorfulAccent1FirstRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent1LastRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent1FirstCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent1LastCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent1OddColumn
+
+	{mso-style-name:"List Table 6 Colorful - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent1OddRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent1
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#365F91;}
+
+table.MsoTable15List7ColorfulAccent1FirstRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-bottom:.5pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent1LastRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.5pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent1FirstCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:.5pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent1LastCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:.5pt solid #4F81BD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent1OddColumn
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent1OddRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DBE5F1;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent1NECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent1NWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent1SECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent1SWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 1";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent2
+
+	{mso-style-name:"List Table 1 Light - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List1LightAccent2FirstRow
+
+	{mso-style-name:"List Table 1 Light - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent2LastRow
+
+	{mso-style-name:"List Table 1 Light - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent2FirstCol
+
+	{mso-style-name:"List Table 1 Light - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent2LastCol
+
+	{mso-style-name:"List Table 1 Light - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent2OddColumn
+
+	{mso-style-name:"List Table 1 Light - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent2OddRow
+
+	{mso-style-name:"List Table 1 Light - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent2
+
+	{mso-style-name:"List Table 2 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .5pt;
+
+	mso-border-bottom-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List2Accent2FirstRow
+
+	{mso-style-name:"List Table 2 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent2LastRow
+
+	{mso-style-name:"List Table 2 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent2FirstCol
+
+	{mso-style-name:"List Table 2 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent2LastCol
+
+	{mso-style-name:"List Table 2 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent2OddColumn
+
+	{mso-style-name:"List Table 2 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent2OddRow
+
+	{mso-style-name:"List Table 2 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent2
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #C0504D 1.0pt;
+
+	mso-border-alt:solid #C0504D .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List3Accent2FirstRow
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent2LastRow
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt double #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent2FirstCol
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent2LastCol
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent2OddColumn
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid #C0504D;
+
+	mso-tstyle-border-right:.5pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent2OddRow
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid #C0504D;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent2NECell
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent2NWCell
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent2SECell
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #C0504D;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent2SWCell
+
+	{mso-style-name:"List Table 3 - Accent 2";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #C0504D;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent2
+
+	{mso-style-name:"List Table 4 - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List4Accent2FirstRow
+
+	{mso-style-name:"List Table 4 - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-tstyle-border-top:.5pt solid #C0504D;
+
+	mso-tstyle-border-left:.5pt solid #C0504D;
+
+	mso-tstyle-border-bottom:.5pt solid #C0504D;
+
+	mso-tstyle-border-right:0in none #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent2LastRow
+
+	{mso-style-name:"List Table 4 - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent2FirstCol
+
+	{mso-style-name:"List Table 4 - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent2LastCol
+
+	{mso-style-name:"List Table 4 - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent2OddColumn
+
+	{mso-style-name:"List Table 4 - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent2OddRow
+
+	{mso-style-name:"List Table 4 - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent2
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #C0504D 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#C0504D;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTable15List5DarkAccent2FirstRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent2LastRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent2FirstCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent2LastCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent2OddColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent2EvenColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:even-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent2OddRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent2NECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent2NWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent2SECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent2SWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 2";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent2
+
+	{mso-style-name:"List Table 6 Colorful - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #C0504D 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #C0504D 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid #C0504D .5pt;
+
+	mso-border-bottom-alt:solid #C0504D .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#943634;}
+
+table.MsoTable15List6ColorfulAccent2FirstRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent2LastRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent2FirstCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent2LastCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent2OddColumn
+
+	{mso-style-name:"List Table 6 Colorful - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent2OddRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent2
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#943634;}
+
+table.MsoTable15List7ColorfulAccent2FirstRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-bottom:.5pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent2LastRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.5pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent2FirstCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:.5pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent2LastCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:.5pt solid #C0504D;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent2OddColumn
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent2OddRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F2DBDB;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent2NECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent2NWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent2SECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent2SWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 2";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent3
+
+	{mso-style-name:"List Table 1 Light - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List1LightAccent3FirstRow
+
+	{mso-style-name:"List Table 1 Light - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent3LastRow
+
+	{mso-style-name:"List Table 1 Light - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent3FirstCol
+
+	{mso-style-name:"List Table 1 Light - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent3LastCol
+
+	{mso-style-name:"List Table 1 Light - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent3OddColumn
+
+	{mso-style-name:"List Table 1 Light - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent3OddRow
+
+	{mso-style-name:"List Table 1 Light - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent3
+
+	{mso-style-name:"List Table 2 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .5pt;
+
+	mso-border-bottom-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List2Accent3FirstRow
+
+	{mso-style-name:"List Table 2 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent3LastRow
+
+	{mso-style-name:"List Table 2 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent3FirstCol
+
+	{mso-style-name:"List Table 2 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent3LastCol
+
+	{mso-style-name:"List Table 2 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent3OddColumn
+
+	{mso-style-name:"List Table 2 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent3OddRow
+
+	{mso-style-name:"List Table 2 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent3
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #9BBB59 1.0pt;
+
+	mso-border-alt:solid #9BBB59 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List3Accent3FirstRow
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent3LastRow
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt double #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent3FirstCol
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent3LastCol
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent3OddColumn
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid #9BBB59;
+
+	mso-tstyle-border-right:.5pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent3OddRow
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent3NECell
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent3NWCell
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent3SECell
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #9BBB59;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent3SWCell
+
+	{mso-style-name:"List Table 3 - Accent 3";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #9BBB59;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent3
+
+	{mso-style-name:"List Table 4 - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List4Accent3FirstRow
+
+	{mso-style-name:"List Table 4 - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-tstyle-border-top:.5pt solid #9BBB59;
+
+	mso-tstyle-border-left:.5pt solid #9BBB59;
+
+	mso-tstyle-border-bottom:.5pt solid #9BBB59;
+
+	mso-tstyle-border-right:0in none #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent3LastRow
+
+	{mso-style-name:"List Table 4 - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent3FirstCol
+
+	{mso-style-name:"List Table 4 - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent3LastCol
+
+	{mso-style-name:"List Table 4 - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent3OddColumn
+
+	{mso-style-name:"List Table 4 - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent3OddRow
+
+	{mso-style-name:"List Table 4 - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent3
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #9BBB59 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#9BBB59;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTable15List5DarkAccent3FirstRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent3LastRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent3FirstCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent3LastCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent3OddColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent3EvenColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:even-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent3OddRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent3NECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent3NWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent3SECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent3SWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 3";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent3
+
+	{mso-style-name:"List Table 6 Colorful - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #9BBB59 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #9BBB59 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid #9BBB59 .5pt;
+
+	mso-border-bottom-alt:solid #9BBB59 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#76923C;}
+
+table.MsoTable15List6ColorfulAccent3FirstRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent3LastRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent3FirstCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent3LastCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent3OddColumn
+
+	{mso-style-name:"List Table 6 Colorful - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent3OddRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent3
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#76923C;}
+
+table.MsoTable15List7ColorfulAccent3FirstRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-bottom:.5pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent3LastRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.5pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent3FirstCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:.5pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent3LastCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:.5pt solid #9BBB59;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent3OddColumn
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent3OddRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#EAF1DD;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent3NECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent3NWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent3SECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent3SWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 3";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent4
+
+	{mso-style-name:"List Table 1 Light - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List1LightAccent4FirstRow
+
+	{mso-style-name:"List Table 1 Light - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent4LastRow
+
+	{mso-style-name:"List Table 1 Light - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent4FirstCol
+
+	{mso-style-name:"List Table 1 Light - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent4LastCol
+
+	{mso-style-name:"List Table 1 Light - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent4OddColumn
+
+	{mso-style-name:"List Table 1 Light - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent4OddRow
+
+	{mso-style-name:"List Table 1 Light - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent4
+
+	{mso-style-name:"List Table 2 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .5pt;
+
+	mso-border-bottom-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List2Accent4FirstRow
+
+	{mso-style-name:"List Table 2 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent4LastRow
+
+	{mso-style-name:"List Table 2 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent4FirstCol
+
+	{mso-style-name:"List Table 2 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent4LastCol
+
+	{mso-style-name:"List Table 2 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent4OddColumn
+
+	{mso-style-name:"List Table 2 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent4OddRow
+
+	{mso-style-name:"List Table 2 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent4
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #8064A2 1.0pt;
+
+	mso-border-alt:solid #8064A2 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List3Accent4FirstRow
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent4LastRow
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt double #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent4FirstCol
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent4LastCol
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent4OddColumn
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid #8064A2;
+
+	mso-tstyle-border-right:.5pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent4OddRow
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid #8064A2;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent4NECell
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent4NWCell
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent4SECell
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #8064A2;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent4SWCell
+
+	{mso-style-name:"List Table 3 - Accent 4";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #8064A2;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent4
+
+	{mso-style-name:"List Table 4 - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List4Accent4FirstRow
+
+	{mso-style-name:"List Table 4 - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-tstyle-border-top:.5pt solid #8064A2;
+
+	mso-tstyle-border-left:.5pt solid #8064A2;
+
+	mso-tstyle-border-bottom:.5pt solid #8064A2;
+
+	mso-tstyle-border-right:0in none #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent4LastRow
+
+	{mso-style-name:"List Table 4 - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent4FirstCol
+
+	{mso-style-name:"List Table 4 - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent4LastCol
+
+	{mso-style-name:"List Table 4 - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent4OddColumn
+
+	{mso-style-name:"List Table 4 - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent4OddRow
+
+	{mso-style-name:"List Table 4 - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent4
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #8064A2 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#8064A2;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTable15List5DarkAccent4FirstRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent4LastRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent4FirstCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent4LastCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent4OddColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent4EvenColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:even-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent4OddRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent4NECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent4NWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent4SECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent4SWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 4";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent4
+
+	{mso-style-name:"List Table 6 Colorful - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #8064A2 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #8064A2 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid #8064A2 .5pt;
+
+	mso-border-bottom-alt:solid #8064A2 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#5F497A;}
+
+table.MsoTable15List6ColorfulAccent4FirstRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent4LastRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent4FirstCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent4LastCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent4OddColumn
+
+	{mso-style-name:"List Table 6 Colorful - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent4OddRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent4
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#5F497A;}
+
+table.MsoTable15List7ColorfulAccent4FirstRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-bottom:.5pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent4LastRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.5pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent4FirstCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:.5pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent4LastCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:.5pt solid #8064A2;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent4OddColumn
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent4OddRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#E5DFEC;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent4NECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent4NWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent4SECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent4SWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 4";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent5
+
+	{mso-style-name:"List Table 1 Light - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List1LightAccent5FirstRow
+
+	{mso-style-name:"List Table 1 Light - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent5LastRow
+
+	{mso-style-name:"List Table 1 Light - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent5FirstCol
+
+	{mso-style-name:"List Table 1 Light - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent5LastCol
+
+	{mso-style-name:"List Table 1 Light - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent5OddColumn
+
+	{mso-style-name:"List Table 1 Light - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent5OddRow
+
+	{mso-style-name:"List Table 1 Light - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent5
+
+	{mso-style-name:"List Table 2 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .5pt;
+
+	mso-border-bottom-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List2Accent5FirstRow
+
+	{mso-style-name:"List Table 2 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent5LastRow
+
+	{mso-style-name:"List Table 2 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent5FirstCol
+
+	{mso-style-name:"List Table 2 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent5LastCol
+
+	{mso-style-name:"List Table 2 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent5OddColumn
+
+	{mso-style-name:"List Table 2 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent5OddRow
+
+	{mso-style-name:"List Table 2 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent5
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4BACC6 1.0pt;
+
+	mso-border-alt:solid #4BACC6 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List3Accent5FirstRow
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent5LastRow
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt double #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent5FirstCol
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent5LastCol
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent5OddColumn
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid #4BACC6;
+
+	mso-tstyle-border-right:.5pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent5OddRow
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent5NECell
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent5NWCell
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent5SECell
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #4BACC6;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent5SWCell
+
+	{mso-style-name:"List Table 3 - Accent 5";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #4BACC6;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent5
+
+	{mso-style-name:"List Table 4 - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List4Accent5FirstRow
+
+	{mso-style-name:"List Table 4 - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-tstyle-border-top:.5pt solid #4BACC6;
+
+	mso-tstyle-border-left:.5pt solid #4BACC6;
+
+	mso-tstyle-border-bottom:.5pt solid #4BACC6;
+
+	mso-tstyle-border-right:0in none #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent5LastRow
+
+	{mso-style-name:"List Table 4 - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent5FirstCol
+
+	{mso-style-name:"List Table 4 - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent5LastCol
+
+	{mso-style-name:"List Table 4 - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent5OddColumn
+
+	{mso-style-name:"List Table 4 - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent5OddRow
+
+	{mso-style-name:"List Table 4 - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent5
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #4BACC6 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#4BACC6;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTable15List5DarkAccent5FirstRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent5LastRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent5FirstCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent5LastCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent5OddColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent5EvenColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:even-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent5OddRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent5NECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent5NWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent5SECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent5SWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 5";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent5
+
+	{mso-style-name:"List Table 6 Colorful - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #4BACC6 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #4BACC6 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid #4BACC6 .5pt;
+
+	mso-border-bottom-alt:solid #4BACC6 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#31849B;}
+
+table.MsoTable15List6ColorfulAccent5FirstRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent5LastRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent5FirstCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent5LastCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent5OddColumn
+
+	{mso-style-name:"List Table 6 Colorful - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent5OddRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent5
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#31849B;}
+
+table.MsoTable15List7ColorfulAccent5FirstRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-bottom:.5pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent5LastRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.5pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent5FirstCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:.5pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent5LastCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:.5pt solid #4BACC6;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent5OddColumn
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent5OddRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#DAEEF3;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent5NECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent5NWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent5SECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent5SWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 5";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent6
+
+	{mso-style-name:"List Table 1 Light - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List1LightAccent6FirstRow
+
+	{mso-style-name:"List Table 1 Light - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent6LastRow
+
+	{mso-style-name:"List Table 1 Light - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent6FirstCol
+
+	{mso-style-name:"List Table 1 Light - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent6LastCol
+
+	{mso-style-name:"List Table 1 Light - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List1LightAccent6OddColumn
+
+	{mso-style-name:"List Table 1 Light - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List1LightAccent6OddRow
+
+	{mso-style-name:"List Table 1 Light - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent6
+
+	{mso-style-name:"List Table 2 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid windowtext 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid windowtext 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid windowtext .5pt;
+
+	mso-border-bottom-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List2Accent6FirstRow
+
+	{mso-style-name:"List Table 2 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent6LastRow
+
+	{mso-style-name:"List Table 2 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent6FirstCol
+
+	{mso-style-name:"List Table 2 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent6LastCol
+
+	{mso-style-name:"List Table 2 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List2Accent6OddColumn
+
+	{mso-style-name:"List Table 2 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List2Accent6OddRow
+
+	{mso-style-name:"List Table 2 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent6
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #F79646 1.0pt;
+
+	mso-border-alt:solid #F79646 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List3Accent6FirstRow
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent6LastRow
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:1.5pt double #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent6FirstCol
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent6LastCol
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List3Accent6OddColumn
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid #F79646;
+
+	mso-tstyle-border-right:.5pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent6OddRow
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid #F79646;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent6NECell
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent6NWCell
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent6SECell
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #F79646;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List3Accent6SWCell
+
+	{mso-style-name:"List Table 3 - Accent 6";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #F79646;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent6
+
+	{mso-style-name:"List Table 4 - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid windowtext 1.0pt;
+
+	mso-border-alt:solid windowtext .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;}
+
+table.MsoTable15List4Accent6FirstRow
+
+	{mso-style-name:"List Table 4 - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-tstyle-border-top:.5pt solid #F79646;
+
+	mso-tstyle-border-left:.5pt solid #F79646;
+
+	mso-tstyle-border-bottom:.5pt solid #F79646;
+
+	mso-tstyle-border-right:0in none #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	color:white;
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent6LastRow
+
+	{mso-style-name:"List Table 4 - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double windowtext;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent6FirstCol
+
+	{mso-style-name:"List Table 4 - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent6LastCol
+
+	{mso-style-name:"List Table 4 - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List4Accent6OddColumn
+
+	{mso-style-name:"List Table 4 - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List4Accent6OddRow
+
+	{mso-style-name:"List Table 4 - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent6
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border:solid #F79646 3.0pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-tstyle-shading:#F79646;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:white;}
+
+table.MsoTable15List5DarkAccent6FirstRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:2.25pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent6LastRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent6FirstCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent6LastCol
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List5DarkAccent6OddColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent6EvenColumn
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:even-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:.5pt solid white;
+
+	mso-tstyle-border-right:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent6OddRow
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:.5pt solid white;
+
+	mso-tstyle-border-bottom:.5pt solid white;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent6NECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent6NWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent6SECell
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List5DarkAccent6SWCell
+
+	{mso-style-name:"List Table 5 Dark - Accent 6";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:cell-none;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent6
+
+	{mso-style-name:"List Table 6 Colorful - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	border-top:solid #F79646 1.0pt;
+
+	border-left:none;
+
+	border-bottom:solid #F79646 1.0pt;
+
+	border-right:none;
+
+	mso-border-top-alt:solid #F79646 .5pt;
+
+	mso-border-bottom-alt:solid #F79646 .5pt;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#E36C0A;}
+
+table.MsoTable15List6ColorfulAccent6FirstRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-bottom:.5pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent6LastRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-top:1.5pt double #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent6FirstCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent6LastCol
+
+	{mso-style-name:"List Table 6 Colorful - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-weight:bold;
+
+	mso-bidi-font-weight:bold;}
+
+table.MsoTable15List6ColorfulAccent6OddColumn
+
+	{mso-style-name:"List Table 6 Colorful - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List6ColorfulAccent6OddRow
+
+	{mso-style-name:"List Table 6 Colorful - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent6
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-tstyle-rowband-size:1;
+
+	mso-tstyle-colband-size:1;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-padding-alt:.15pt 5.4pt .15pt 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-pagination:widow-orphan;
+
+	mso-layout-grid-align:none;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	color:#E36C0A;}
+
+table.MsoTable15List7ColorfulAccent6FirstRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:first-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-bottom:.5pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent6LastRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:last-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-top:.5pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent6FirstCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:first-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-right:.5pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	text-align:right;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent6LastCol
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:last-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:white;
+
+	mso-tstyle-border-left:.5pt solid #F79646;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-size:1.0pt;
+
+	mso-ansi-font-size:1.0pt;
+
+	mso-bidi-font-size:1.0pt;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";
+
+	mso-ansi-font-style:italic;
+
+	mso-bidi-font-style:italic;}
+
+table.MsoTable15List7ColorfulAccent6OddColumn
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:odd-column;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent6OddRow
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:odd-row;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-shading:#FDE9D9;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent6NECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:ne-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent6NWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:nw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent6SECell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:se-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-left:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+table.MsoTable15List7ColorfulAccent6SWCell
+
+	{mso-style-name:"List Table 7 Colorful - Accent 6";
+
+	mso-table-condition:sw-cell;
+
+	mso-style-priority:99;
+
+	mso-style-unhide:no;
+
+	mso-tstyle-border-right:cell-none;
+
+	mso-para-margin-right:0in;
+
+	mso-para-margin-left:0in;
+
+	font-family:"Times New Roman",serif;
+
+	mso-bidi-font-family:"Times New Roman";}
+
+</style>
+
+<![endif]--><!--[if gte mso 9]><xml>
+
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+
+ <o:shapelayout v:ext="edit">
+
+  <o:idmap v:ext="edit" data="1"/>
+
+ </o:shapelayout></xml><![endif]-->
+
+</head>
+
+
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in;word-wrap:
+
+break-word'>
+
+
+
+<div class=WordSection1>
+
+
+
+<p class=MsoTitle style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:14.0pt;
+
+mso-bidi-font-weight:normal'>Professional Services AGREEMENT<o:p></o:p></span></p>
+
+
+
+<p class=MsoTitle style='margin-bottom:0in;margin-bottom:12.0pt;mso-margin-bottom-alt:
+
+12.0pt;mso-margin-top-alt:0in;mso-add-space:auto;mso-layout-grid-align:auto'><span
+
+style='mso-bidi-font-size:12.0pt;mso-bidi-font-family:"Times New Roman";
+
+mso-font-kerning:14.0pt;mso-bidi-font-weight:normal'>12/1/2024<span
+
+style='mso-tab-count:1'>        </span><o:p></o:p></span></p>
+
+
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:14.0pt'>Professional
+
+Services Agreement (“Agreement”) by and between the entity identified in a Work
+
+Order referencing this Agreement (the “Customer”) and Funnelcast LLC (“Funnelcast”).
+
+<o:p></o:p></span></p>
+
+
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:14.0pt'>The
+
+parties agree as follows:<o:p></o:p></span></p>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><![if !supportLists]><span style='mso-bidi-font-size:
+
+12.0pt;mso-fareast-font-family:Arial;display:none;mso-hide:all special;
+
+mso-font-kerning:14.0pt;mso-bidi-font-weight:normal'><span style='mso-list:
+
+Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>SERVICES</span><span style='mso-bidi-font-size:12.0pt;mso-bidi-font-family:
+
+"Times New Roman";display:none;mso-hide:all special;mso-font-kerning:14.0pt;
+
+mso-bidi-font-weight:normal'><o:p></o:p></span></h1>
+
+
+
+<p class=Para1 style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>. Funnelcast
+
+will provide the consulting services as described in a Work Order. <o:p></o:p></span></p>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><a name="_Ref490132914"><![if !supportLists]><span
+
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:Arial;display:none;
+
+mso-hide:all special;mso-font-kerning:12.0pt;mso-bidi-font-weight:normal'><span
+
+style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>PAYMENT FOR SERVICES</span></a><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";display:none;mso-hide:all special;
+
+mso-font-kerning:12.0pt;mso-bidi-font-weight:normal'><o:p></o:p></span></h1>
+
+
+
+<p class=Para1 style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>. Customer
+
+shall pay Funnelcast the fees specified in accordance with each Work Order. Except
+
+as otherwise specified in a Work Order: (a) Funnelcast will bill Customer for
+
+actual out-of-pocket expenses incurred including travel, parking, and other
+
+incidental expenses; and (b) Funnelcast will send monthly invoices to Customer
+
+and Customer agrees to provide payment upon receipt of invoices. Unless
+
+otherwise stated, <span class=SpellE>Funnelcast’s</span> fees do not include
+
+any taxes, levies, duties or similar governmental assessments of any nature,
+
+including but not limited to value-added, sales, use or withholding taxes,
+
+assessable by any local, state, federal or foreign jurisdiction<a
+
+name="_cp_text_1_2">, all of which are the responsibility of Customer; </a>provided,
+
+Funnelcast (and not Customer) is solely responsible for taxes assessable
+
+against Funnelcast based on <span class=SpellE>Funnelcast’s</span> income,
+
+property and employees.<o:p></o:p></span></p>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><![if !supportLists]><span style='mso-bidi-font-size:
+
+12.0pt;mso-fareast-font-family:Arial;mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>Confidentiality; IP RIGHTS.<o:p></o:p></span></h1>
+
+
+
+<h2 style='margin-left:0in;mso-list:l22 level2 lfo11;mso-layout-grid-align:
+
+auto'><![if !supportLists]><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+
+Arial;mso-font-kerning:12.0pt'><span style='mso-list:Ignore'>(a)<span
+
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>“Confidential
+
+Information” means any proprietary information which is, among other things,
+
+learned by one party about the other party’s or its affiliate’s business
+
+affairs, property, methods of operation, or other information which reasonably
+
+could be considered to have business or proprietary value or to be personal or
+
+otherwise confidential in nature, and the terms of this Agreement. The parties
+
+agree to maintain the confidentiality of the other party’s Confidential
+
+Information using reasonable commercial efforts but in no event less than the
+
+degree of care and security as each <span class=GramE>uses</span> to maintain
+
+the confidentiality of its own most Confidential Information. Each party shall
+
+use such Confidential Information only to perform its obligations under this
+
+Agreement, shall disclose such Confidential Information only within its
+
+organization and only to those of its personnel who need to know such
+
+information <span class=GramE>in order to</span> perform its obligations under
+
+this Agreement or in the case of Customer, to utilize the Services. Information
+
+shall not be considered to be Confidential Information if it: (<span
+
+class=SpellE>i</span>) was in the public domain at the time it was disclosed or
+
+enters the public domain without violation of this Agreement; (ii) was known to
+
+either party, without restriction, at the time of the disclosure as shown by
+
+the files of the disclosing party in existence at the time of disclosure; (iii)
+
+was independently developed by the receiving party; or (iv) becomes known to
+
+the receiving party, without restriction, from a third party without breach of
+
+this Agreement and otherwise not in violation of either party’s rights. <o:p></o:p></span></h2>
+
+
+
+<h2 style='margin-left:0in;mso-list:l22 level2 lfo11;mso-layout-grid-align:
+
+auto'><![if !supportLists]><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+
+Arial;mso-font-kerning:12.0pt'><span style='mso-list:Ignore'>(b)<span
+
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>Customer shall
+
+retain ownership of all materials (and associated intellectual property rights)
+
+developed and/or purchased by Customer or on Customer’s behalf prior to this
+
+Agreement and to all intellectual property developed and/or purchased by or on Customer’s
+
+behalf without the active participation of Funnelcast (“Customer Materials”).<o:p></o:p></span></h2>
+
+
+
+<h2 style='margin-left:0in;mso-list:l22 level2 lfo11;mso-layout-grid-align:
+
+auto'><![if !supportLists]><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+
+Arial;mso-font-kerning:12.0pt'><span style='mso-list:Ignore'>(c)<span
+
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>Funnelcast (or
+
+its suppliers) shall retain ownership of all materials (and associated
+
+intellectual property rights) developed and/or purchased by Funnelcast prior to
+
+or independent of this Agreement (“Funnelcast Materials”). <o:p></o:p></span></h2>
+
+
+
+<h2 style='margin-left:0in;mso-list:l22 level2 lfo11;mso-layout-grid-align:
+
+auto'><![if !supportLists]><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+
+Arial;mso-font-kerning:12.0pt'><span style='mso-list:Ignore'>(d)<span
+
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>The copyright
+
+to any customized written reports, notes, outlines and the like (but
+
+specifically excluding any computer software code) that are supplied by Funnelcast
+
+to Customer in connection with <span class=SpellE>Funnelcast’s</span> services
+
+that result from, or contain any Customer Materials or any Customer
+
+Confidential Information (collectively, “Written Deliverables”) is the property
+
+of Customer, provided that (<span class=SpellE>i</span>) to the extent that
+
+such Written Deliverables include any Funnelcast Materials, such Funnelcast
+
+Materials shall remain the sole property of Funnelcast and Funnelcast hereby
+
+grants a non-exclusive, fully paid-up, limited license to such Funnelcast
+
+Materials solely for internal use within Customer in connection with the
+
+Written Deliverable and (ii) Customer acknowledges that Funnelcast is not
+
+restricted in producing materials similar to the Written Deliverables for other
+
+Customers so long as Customer Confidential Information is not disclosed to such
+
+other customers. For avoidance of doubt, (x) Customer may modify or create
+
+derivative works of the Funnelcast Materials but may not distribute the Funnelcast
+
+Materials (or such modified or derivative works) outside of the Customer or use
+
+it for any purpose other than in connection with the Written Deliverables and
+
+(y) “internal use” means use by Customer’s employees, Funnelcast, and others so
+
+long as such use is for the benefit of and in connection with services for the Customer
+
+and not third parties.<o:p></o:p></span></h2>
+
+
+
+<h2 style='margin-left:0in;mso-list:l22 level2 lfo11;mso-layout-grid-align:
+
+auto'><![if !supportLists]><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+
+Arial;mso-font-kerning:12.0pt'><span style='mso-list:Ignore'>(e)<span
+
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>Notwithstanding
+
+anything else to the contrary in this Agreement, either party and its personnel
+
+shall be free to use and employ its and their general skills, know-how, and
+
+expertise, and to use, disclose, and employ any generalized ideas, concepts,
+
+know-how, methods, techniques, or skills gained or learned during the course of
+
+any assignment, so long as it or they acquire and apply such information
+
+without disclosure of any confidential or proprietary information of the other
+
+party.<o:p></o:p></span></h2>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><![if !supportLists]><span style='mso-bidi-font-size:
+
+12.0pt;mso-fareast-font-family:Arial;display:none;mso-hide:all special;
+
+mso-font-kerning:12.0pt;mso-bidi-font-weight:normal'><span style='mso-list:
+
+Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>PERSONNEL<span style='display:none;mso-hide:all special'><o:p></o:p></span></span></h1>
+
+
+
+<p class=Para1 style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>. <o:p></o:p></span></p>
+
+
+
+<h2 style='margin-left:0in;mso-list:l22 level2 lfo11;mso-layout-grid-align:
+
+auto'><![if !supportLists]><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+
+Arial;mso-font-kerning:12.0pt'><span style='mso-list:Ignore'>(a)<span
+
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>All personnel
+
+supplied or used by Funnelcast shall be deemed employees or subcontractors of Funnelcast
+
+and will not be considered employees, agents or subcontractors of the Customer.
+
+Funnelcast shall control such personnel while performing Services under this
+
+Agreement and be responsible for the payment of their compensation (including,
+
+if applicable, withholding of income taxes, and the payment and withholding of
+
+social security and other payroll taxes), workers’ compensation, disability
+
+benefits and the like to the extent applicable to the personnel involved. <o:p></o:p></span></h2>
+
+
+
+<h2 style='margin-left:0in;mso-list:l22 level2 lfo11;mso-layout-grid-align:
+
+auto'><![if !supportLists]><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+
+Arial;mso-font-kerning:12.0pt'><span style='mso-list:Ignore'>(b)<span
+
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>Customer
+
+understands that Funnelcast employees are a valuable resource of Funnelcast in
+
+which Funnelcast has invested substantial recruitment and training expense, and
+
+therefore agrees for the period beginning on the date of this Agreement and
+
+extending for one year following the earlier of the termination of this
+
+Agreement or the termination of any individual employee’s employment at Funnelcast,
+
+to neither solicit nor hire any Funnelcast employee(s). <o:p></o:p></span></h2>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><![if !supportLists]><span style='mso-bidi-font-size:
+
+12.0pt;mso-fareast-font-family:Arial;display:none;mso-hide:all special;
+
+mso-font-kerning:12.0pt;mso-bidi-font-weight:normal'><span style='mso-list:
+
+Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>PUBLICITY<span style='display:none;mso-hide:all special'><o:p></o:p></span></span></h1>
+
+
+
+<p class=Para1 style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>. Both
+
+parties will have the right to publicly refer to the relationship created by
+
+this Agreement and to use each other’s names and/or trademarks in
+
+advertisements and public relations and marketing materials, subject to
+
+reasonable trademark usage guidelines. <o:p></o:p></span></p>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><![if !supportLists]><span style='mso-bidi-font-size:
+
+12.0pt;mso-fareast-font-family:Arial;display:none;mso-hide:all special;
+
+mso-font-kerning:12.0pt;mso-bidi-font-weight:normal'><span style='mso-list:
+
+Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>TERM; TERMINATION<span style='display:none;mso-hide:all special'><o:p></o:p></span></span></h1>
+
+
+
+<p class=Para1 style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>. This
+
+Agreement shall commence on the date of execution of a Work Order under this
+
+Agreement (the <a name="_cp_text_1_3">“</a>Commencement Date”) and continue
+
+until completion of the Services hereunder. Either party will have the right to
+
+terminate this Agreement immediately by delivery of written notice to the other
+
+party if the other party is in material breach of any provision of this
+
+Agreement, and the breaching party has failed to cure that breach within thirty
+
+(30) calendar days after receiving written notice of that breach and of the
+
+non-breaching party’s intention to terminate. Failure of the Customer to make
+
+payments hereunder is a material breach entitling Funnelcast to so terminate. In
+
+the event of any such termination, Customer shall remain liable for payment of
+
+all fees and expenses accruing under this Agreement prior to the date of <span
+
+class=GramE>termination, and</span> shall pay the same within 30 days of such
+
+date of termination. The provisions of Sections 2 through 9 shall survive any
+
+termination of this Agreement in accordance with their terms.<o:p></o:p></span></p>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><![if !supportLists]><span style='mso-bidi-font-size:
+
+12.0pt;mso-fareast-font-family:Arial;display:none;mso-hide:all special;
+
+mso-font-kerning:12.0pt;mso-bidi-font-weight:normal'><span style='mso-list:
+
+Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>LIMITED WARRANTY<span style='display:none;mso-hide:all special'><o:p></o:p></span></span></h1>
+
+
+
+<p class=Para1 style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>. Funnelcast
+
+warrants that Services performed hereunder will be performed in a reasonable
+
+and workmanlike manner, consistent with generally accepted industry standards. Customer
+
+must report any deficiency to Funnelcast in writing within thirty days of
+
+scheduled completion<a name="_cp_text_1_5">. For </a>any breach of the above
+
+warranty, Customer’s exclusive remedy and <span class=SpellE>Funnelcast’s</span>
+
+entire liability will be for Funnelcast to use commercially reasonable efforts
+
+to re-perform the deficient Services. If after a reasonable <span class=GramE>period
+
+of time</span> Funnelcast is unable to re-perform the Services as warranted, Customer
+
+will be entitled to recover the fees paid to Funnelcast for the deficient
+
+Services. THE ABOVE WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES,
+
+WHETHER EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND
+
+FITNESS FOR A PARTICULAR PURPOSE.<o:p></o:p></span></p>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><![if !supportLists]><span style='mso-bidi-font-size:
+
+12.0pt;mso-fareast-font-family:Arial;display:none;mso-hide:all special;
+
+mso-font-kerning:12.0pt;mso-bidi-font-weight:normal'><span style='mso-list:
+
+Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>LIMITATIONS ON LIABILITY<span style='display:none;mso-hide:all special'><o:p></o:p></span></span></h1>
+
+
+
+<p class=Para1 style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>. REGARDLESS
+
+OF WHETHER ANY REMEDY SET FORTH IN THIS AGREEMENT FAILS OF ITS ESSENTIAL
+
+PURPOSE, IN NO EVENT WILL FUNNELCAST BE LIABLE FOR ANY INDIRECT, SPECIAL,
+
+PUNITIVE, CONSEQUENTIAL, OR INCIDENTAL DAMAGES ARISING OUT OF THIS AGREEMENT
+
+EVEN IF CUSTOMER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO
+
+CASE SHALL FUNNELCAST’S AGGREGATE LIABILITY ARISING OUT OF THE SUBJECT MATTER
+
+OF THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR OTHERWISE, EXCEED THE AMOUNT
+
+ACTUALLY RECEIVED BY FUNNELCAST FROM CUSTOMER UNDER THIS AGREEMENT. Further, Customer
+
+agrees to indemnify<a name="_cp_text_1_6">, defend </a>and hold harmless Funnelcast,
+
+its affiliates and its managers, members, officers, and agents <a
+
+name="_cp_text_2_8"></a>from and against any and all losses, claims, costs,
+
+damages and liabilities, joint or several (and all actions, claims, proceedings
+
+and investigations in respect thereof), caused by, related to or arising out
+
+of, directly or indirectly, the engagement referred to in this Agreement,
+
+except Customer will have no obligation to indemnify or defend Funnelcast under
+
+this paragraph to the extent that any such claim or action resulted primarily
+
+from <span class=SpellE>Funnelcast’s</span> breach of this Agreement or <span
+
+class=SpellE>Funnelcast’s</span> or its personnel’s gross negligence or willful
+
+misconduct. <o:p></o:p></span></p>
+
+
+
+<h1 style='margin-left:0in;text-indent:0in;mso-list:l22 level1 lfo11;
+
+mso-layout-grid-align:auto'><a name="_Ref490132925"><![if !supportLists]><span
+
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:Arial;display:none;
+
+mso-hide:all special;mso-font-kerning:12.0pt;mso-bidi-font-weight:normal'><span
+
+style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</span></span></span><![endif]><span style='mso-bidi-font-size:12.0pt;
+
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt;mso-bidi-font-weight:
+
+normal'>GENERAL</span></a><span style='mso-bidi-font-size:12.0pt;mso-bidi-font-family:
+
+"Times New Roman";display:none;mso-hide:all special;mso-font-kerning:12.0pt;
+
+mso-bidi-font-weight:normal'><o:p></o:p></span></h1>
+
+
+
+<p class=Para1 style='mso-layout-grid-align:auto'><span style='mso-bidi-font-size:
+
+12.0pt;mso-bidi-font-family:"Times New Roman";mso-font-kerning:12.0pt'>. All
+
+notices, demands, requests or other communications that may be or are required
+
+to be given, served or sent by any party pursuant to this Agreement will be in
+
+writing (and shall be deemed to have been duly given upon receipt), will
+
+reference this Agreement and shall be mailed by first class, registered or
+
+certified mail, return receipt requested, postage prepaid, or transmitted by
+
+express courier or hand delivery or fax transmission or email transmission,
+
+addressed to the address in the applicable Work Order. Neither party may assign
+
+or delegate its obligations under this Agreement either in whole or in part,
+
+without the prior written consent of the other, except not such consent shall
+
+be required for any assignment by a party to a person or entity into which it
+
+has <span class=GramE>merged</span> or which has otherwise succeeded to all or
+
+substantially all of its business and assets to which this Agreement pertains,
+
+by purchase of stock, assets, merger, reorganization or otherwise. This
+
+Agreement shall be governed by and construed in accordance with the laws of the
+
+Commonwealth of Massachusetts, excluding its choice of law provisions. This
+
+Agreement constitute the entire agreement and understanding of the parties with
+
+respect to the subject matter hereof and supersedes any prior or
+
+contemporaneous written or verbal communications or representations regarding
+
+its subject matter. Any terms or conditions appearing on the face or reverse
+
+side of any purchase order, acknowledgment, or confirmation that are different
+
+from or in addition to those required hereunder shall not be binding on the
+
+parties, even if signed and returned, unless both parties hereto expressly
+
+agree in a separate writing to be bound by such separate or additional terms
+
+and conditions.<o:p></o:p></span></p>
+
+
+
+</div>
+
+
+
+</body>
+
+
+
+</html>
